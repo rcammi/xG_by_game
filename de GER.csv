@@ -1,0 +1,613 @@
+,Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Referee,Match Report,Notes,squadName
+0,2021-08-13,20:30,Bundesliga,Matchweek 1,Fri,Away,D,1.0,1.0,M'Gladbach,2.6,2.0,65.0,22925.0,Manuel Neuer,4-2-3-1,Marco Fritz,Match Report,,Bayern Munich
+2,2021-08-22,17:30,Bundesliga,Matchweek 2,Sun,Home,W,3.0,2.0,Köln,2.6,0.8,57.0,20000.0,Manuel Neuer,4-2-3-1,Martin Petersen,Match Report,,Bayern Munich
+4,2021-08-28,18:30,Bundesliga,Matchweek 3,Sat,Home,W,5.0,0.0,Hertha BSC,3.0,0.4,62.0,25000.0,Manuel Neuer,4-2-3-1,Sven Jablonski,Match Report,,Bayern Munich
+5,2021-09-11,18:30,Bundesliga,Matchweek 4,Sat,Away,W,4.0,1.0,RB Leipzig,4.2,0.5,48.0,34000.0,Manuel Neuer,4-2-3-1,Deniz Aytekin,Match Report,,Bayern Munich
+7,2021-09-18,15:30,Bundesliga,Matchweek 5,Sat,Home,W,7.0,0.0,Bochum,4.5,1.0,69.0,25000.0,Manuel Neuer,4-2-3-1,Tobias Welz,Match Report,,Bayern Munich
+8,2021-09-24,20:30,Bundesliga,Matchweek 6,Fri,Away,W,3.0,1.0,Greuther Fürth,0.9,1.0,67.0,11740.0,Manuel Neuer,3-4-3,Robert Schröder,Match Report,,Bayern Munich
+10,2021-10-03,17:30,Bundesliga,Matchweek 7,Sun,Home,L,1.0,2.0,Eint Frankfurt,2.7,0.7,72.0,25000.0,Manuel Neuer,4-2-3-1,Florian Badstübner,Match Report,,Bayern Munich
+11,2021-10-17,15:30,Bundesliga,Matchweek 8,Sun,Away,W,5.0,1.0,Leverkusen,3.1,0.8,59.0,29542.0,Manuel Neuer,4-2-3-1,Sven Jablonski,Match Report,,Bayern Munich
+13,2021-10-23,15:30,Bundesliga,Matchweek 9,Sat,Home,W,4.0,0.0,Hoffenheim,2.1,0.7,62.0,60000.0,Manuel Neuer,4-2-3-1,Matthias Jöllenbeck,Match Report,,Bayern Munich
+15,2021-10-30,15:30,Bundesliga,Matchweek 10,Sat,Away,W,5.0,2.0,Union Berlin,3.3,1.1,60.0,16509.0,Manuel Neuer,4-2-3-1,Harm Osmers,Match Report,,Bayern Munich
+17,2021-11-06,15:30,Bundesliga,Matchweek 11,Sat,Home,W,2.0,1.0,Freiburg,3.5,1.1,63.0,75000.0,Manuel Neuer,4-2-3-1,Sascha Stegemann,Match Report,,Bayern Munich
+18,2021-11-19,20:30,Bundesliga,Matchweek 12,Fri,Away,L,1.0,2.0,Augsburg,1.6,0.3,79.0,26000.0,Manuel Neuer,4-2-3-1,Daniel Siebert,Match Report,,Bayern Munich
+20,2021-11-27,18:30,Bundesliga,Matchweek 13,Sat,Home,W,1.0,0.0,Arminia,2.3,0.5,73.0,12000.0,Manuel Neuer,4-2-3-1,Marco Fritz,Match Report,,Bayern Munich
+21,2021-12-04,18:30,Bundesliga,Matchweek 14,Sat,Away,W,3.0,2.0,Dortmund,2.0,1.1,53.0,15000.0,Manuel Neuer,4-2-3-1,Felix Zwayer,Match Report,,Bayern Munich
+23,2021-12-11,15:30,Bundesliga,Matchweek 15,Sat,Home,W,2.0,1.0,Mainz 05,1.9,0.8,64.0,,Manuel Neuer,4-2-3-1,Benjamin Cortus,Match Report,,Bayern Munich
+24,2021-12-14,18:30,Bundesliga,Matchweek 16,Tue,Away,W,5.0,0.0,Stuttgart,3.3,0.9,57.0,750.0,Manuel Neuer,4-2-3-1,Robert Schröder,Match Report,,Bayern Munich
+25,2021-12-17,20:30,Bundesliga,Matchweek 17,Fri,Home,W,4.0,0.0,Wolfsburg,3.2,1.2,62.0,,Manuel Neuer,4-2-3-1,Tobias Welz,Match Report,,Bayern Munich
+26,2022-01-07,20:30,Bundesliga,Matchweek 18,Fri,Home,L,1.0,2.0,M'Gladbach,1.7,1.1,61.0,,Thomas Müller,4-2-3-1,Daniel Siebert,Match Report,,Bayern Munich
+27,2022-01-15,15:30,Bundesliga,Matchweek 19,Sat,Away,W,4.0,0.0,Köln,3.4,1.2,52.0,1000.0,Manuel Neuer,4-2-3-1,Tobias Welz,Match Report,,Bayern Munich
+28,2022-01-23,17:30,Bundesliga,Matchweek 20,Sun,Away,W,4.0,1.0,Hertha BSC,3.9,0.9,70.0,3000.0,Manuel Neuer,3-4-3,Bastian Dankert,Match Report,,Bayern Munich
+29,2022-02-05,18:30,Bundesliga,Matchweek 21,Sat,Home,W,3.0,2.0,RB Leipzig,2.9,2.1,58.0,10000.0,Manuel Neuer,3-4-3,Sven Jablonski,Match Report,,Bayern Munich
+30,2022-02-12,15:30,Bundesliga,Matchweek 22,Sat,Away,L,2.0,4.0,Bochum,2.2,1.3,64.0,10000.0,Thomas Müller,4-2-3-1,Robert Schröder,Match Report,,Bayern Munich
+32,2022-02-20,15:30,Bundesliga,Matchweek 23,Sun,Home,W,4.0,1.0,Greuther Fürth,2.7,0.9,77.0,25000.0,Thomas Müller,4-2-3-1,Robert Hartmann,Match Report,,Bayern Munich
+33,2022-02-26,18:30,Bundesliga,Matchweek 24,Sat,Away,W,1.0,0.0,Eint Frankfurt,2.0,0.8,70.0,25000.0,Robert Lewandowski,3-4-3,Florian Badstübner,Match Report,,Bayern Munich
+34,2022-03-05,15:30,Bundesliga,Matchweek 25,Sat,Home,D,1.0,1.0,Leverkusen,1.4,1.8,68.0,25000.0,Thomas Müller,4-2-3-1,Daniel Siebert,Match Report,,Bayern Munich
+36,2022-03-12,15:30,Bundesliga,Matchweek 26,Sat,Away,D,1.0,1.0,Hoffenheim,3.3,1.4,61.0,25600.0,Manuel Neuer,3-4-3,Robert Schröder,Match Report,,Bayern Munich
+37,2022-03-19,18:30,Bundesliga,Matchweek 27,Sat,Home,W,4.0,0.0,Union Berlin,2.9,0.8,71.0,37000.0,Manuel Neuer,4-1-4-1,Harm Osmers,Match Report,,Bayern Munich
+38,2022-04-02,15:30,Bundesliga,Matchweek 28,Sat,Away,W,4.0,1.0,Freiburg,2.0,0.6,61.0,34700.0,Manuel Neuer,4-2-3-1,Christian Dingert,Match Report,,Bayern Munich
+40,2022-04-09,15:30,Bundesliga,Matchweek 29,Sat,Home,W,1.0,0.0,Augsburg,1.8,0.3,67.0,75000.0,Manuel Neuer,4-2-3-1,Patrick Ittrich,Match Report,,Bayern Munich
+42,2022-04-17,15:30,Bundesliga,Matchweek 30,Sun,Away,W,3.0,0.0,Arminia,2.2,0.7,74.0,26419.0,Manuel Neuer,3-4-3,Matthias Jöllenbeck,Match Report,,Bayern Munich
+43,2022-04-23,18:30,Bundesliga,Matchweek 31,Sat,Home,W,3.0,1.0,Dortmund,,,58.0,75000.0,Manuel Neuer,4-2-3-1,Daniel Siebert,Match Report,,Bayern Munich
+44,2022-04-30,15:30,Bundesliga,Matchweek 32,Sat,Away,,,,Mainz 05,,,,,,,,Head-to-Head,,Bayern Munich
+45,2022-05-08,17:30,Bundesliga,Matchweek 33,Sun,Home,,,,Stuttgart,,,,,,,,Head-to-Head,,Bayern Munich
+46,2022-05-14,15:30,Bundesliga,Matchweek 34,Sat,Away,,,,Wolfsburg,,,,,,,,Head-to-Head,,Bayern Munich
+1,2021-08-14,18:30,Bundesliga,Matchweek 1,Sat,Home,W,5.0,2.0,Eint Frankfurt,2.5,1.8,60.0,25000.0,Marco Reus,4-2-3-1,Tobias Stieler,Match Report,,Dortmund
+3,2021-08-21,15:30,Bundesliga,Matchweek 2,Sat,Away,L,1.0,2.0,Freiburg,1.5,1.0,77.0,10100.0,Marco Reus,4-4-2◆,Robert Schröder,Match Report,,Dortmund
+4,2021-08-27,20:30,Bundesliga,Matchweek 3,Fri,Home,W,3.0,2.0,Hoffenheim,3.6,1.8,59.0,25000.0,Marco Reus,4-4-2◆,Felix Zwayer,Match Report,,Dortmund
+5,2021-09-11,15:30,Bundesliga,Matchweek 4,Sat,Away,W,4.0,3.0,Leverkusen,2.1,0.9,58.0,17605.0,Marco Reus,4-3-2-1,Daniel Siebert,Match Report,,Dortmund
+7,2021-09-19,17:30,Bundesliga,Matchweek 5,Sun,Home,W,4.0,2.0,Union Berlin,0.9,1.4,63.0,25000.0,Marco Reus,4-3-3,Sven Jablonski,Match Report,,Dortmund
+8,2021-09-25,18:30,Bundesliga,Matchweek 6,Sat,Away,L,0.0,1.0,M'Gladbach,0.4,1.4,45.0,25000.0,Mats Hummels,3-5-2,Deniz Aytekin,Match Report,,Dortmund
+10,2021-10-02,15:30,Bundesliga,Matchweek 7,Sat,Home,W,2.0,1.0,Augsburg,3.0,0.8,70.0,41000.0,Marco Reus,4-2-3-1,Tobias Welz,Match Report,,Dortmund
+11,2021-10-16,15:30,Bundesliga,Matchweek 8,Sat,Home,W,3.0,1.0,Mainz 05,2.3,0.6,67.0,63812.0,Marco Reus,4-3-3,Daniel Schlager,Match Report,,Dortmund
+13,2021-10-23,15:30,Bundesliga,Matchweek 9,Sat,Away,W,3.0,1.0,Arminia,2.4,1.7,69.0,25000.0,Marco Reus,3-4-3,Benjamin Brand,Match Report,,Dortmund
+15,2021-10-30,15:30,Bundesliga,Matchweek 10,Sat,Home,W,2.0,0.0,Köln,1.3,1.3,43.0,66709.0,Marco Reus,3-4-3,Martin Petersen,Match Report,,Dortmund
+17,2021-11-06,18:30,Bundesliga,Matchweek 11,Sat,Away,L,1.0,2.0,RB Leipzig,1.2,2.4,46.0,43429.0,Marco Reus,3-4-3,Felix Zwayer,Match Report,,Dortmund
+18,2021-11-20,15:30,Bundesliga,Matchweek 12,Sat,Home,W,2.0,1.0,Stuttgart,1.7,1.4,64.0,57900.0,Marco Reus,4-2-3-1,Harm Osmers,Match Report,,Dortmund
+20,2021-11-27,15:30,Bundesliga,Matchweek 13,Sat,Away,W,3.0,1.0,Wolfsburg,2.2,1.4,58.0,13281.0,Marco Reus,4-2-3-1,Sven Jablonski,Match Report,,Dortmund
+21,2021-12-04,18:30,Bundesliga,Matchweek 14,Sat,Home,L,2.0,3.0,Bayern Munich,1.1,2.0,47.0,15000.0,Marco Reus,4-4-2◆,Felix Zwayer,Match Report,,Dortmund
+23,2021-12-11,15:30,Bundesliga,Matchweek 15,Sat,Away,D,1.0,1.0,Bochum,2.5,0.9,66.0,13799.0,Marco Reus,4-2-3-1,Matthias Jöllenbeck,Match Report,,Dortmund
+24,2021-12-15,20:30,Bundesliga,Matchweek 16,Wed,Home,W,3.0,0.0,Greuther Fürth,1.8,0.6,68.0,15000.0,Marco Reus,4-2-3-1,Daniel Schlager,Match Report,,Dortmund
+25,2021-12-18,18:30,Bundesliga,Matchweek 17,Sat,Away,L,2.0,3.0,Hertha BSC,1.2,1.6,60.0,5000.0,Marco Reus,4-2-3-1,Marco Fritz,Match Report,,Dortmund
+26,2022-01-08,18:30,Bundesliga,Matchweek 18,Sat,Away,W,3.0,2.0,Eint Frankfurt,2.4,1.2,63.0,250.0,Marco Reus,4-3-3,Robert Schröder,Match Report,,Dortmund
+27,2022-01-14,20:30,Bundesliga,Matchweek 19,Fri,Home,W,5.0,1.0,Freiburg,1.8,0.7,66.0,750.0,Marco Reus,4-3-3,Florian Badstübner,Match Report,,Dortmund
+29,2022-01-22,15:30,Bundesliga,Matchweek 20,Sat,Away,W,3.0,2.0,Hoffenheim,1.5,1.5,42.0,500.0,Marco Reus,4-3-3,Deniz Aytekin,Match Report,,Dortmund
+30,2022-02-06,15:30,Bundesliga,Matchweek 21,Sun,Home,L,2.0,5.0,Leverkusen,1.3,2.1,64.0,10000.0,Marco Reus,4-3-3,Daniel Siebert,Match Report,,Dortmund
+31,2022-02-13,15:30,Bundesliga,Matchweek 22,Sun,Away,W,3.0,0.0,Union Berlin,1.9,1.3,60.0,10000.0,Marco Reus,4-3-3,Matthias Jöllenbeck,Match Report,,Dortmund
+33,2022-02-20,17:30,Bundesliga,Matchweek 23,Sun,Home,W,6.0,0.0,M'Gladbach,3.5,0.8,51.0,10000.0,Marco Reus,3-4-3,Marco Fritz,Match Report,,Dortmund
+35,2022-02-27,17:30,Bundesliga,Matchweek 24,Sun,Away,D,1.0,1.0,Augsburg,0.5,0.9,63.0,15330.0,Mats Hummels,3-5-2,Deniz Aytekin,Match Report,,Dortmund
+36,2022-03-13,17:30,Bundesliga,Matchweek 26,Sun,Home,W,1.0,0.0,Arminia,2.0,0.6,58.0,33000.0,Axel Witsel,4-2-3-1,Bastian Dankert,Match Report,,Dortmund
+37,2022-03-16,18:30,Bundesliga,Matchweek 25,Wed,Away,W,1.0,0.0,Mainz 05,0.8,0.6,60.0,25000.0,Axel Witsel,4-2-3-1,Sascha Stegemann,Match Report,,Dortmund
+38,2022-03-20,19:30,Bundesliga,Matchweek 27,Sun,Away,D,1.0,1.0,Köln,1.1,1.2,46.0,50000.0,Axel Witsel,4-5-1,Daniel Siebert,Match Report,,Dortmund
+39,2022-04-02,18:30,Bundesliga,Matchweek 28,Sat,Home,L,1.0,4.0,RB Leipzig,0.8,0.9,63.0,81365.0,Marco Reus,3-4-3,Marco Fritz,Match Report,,Dortmund
+40,2022-04-08,20:30,Bundesliga,Matchweek 29,Fri,Away,W,2.0,0.0,Stuttgart,1.8,1.2,59.0,58248.0,Marco Reus,4-2-3-1,Harm Osmers,Match Report,,Dortmund
+41,2022-04-16,15:30,Bundesliga,Matchweek 30,Sat,Home,W,6.0,1.0,Wolfsburg,2.9,1.4,60.0,79200.0,Marco Reus,3-4-3,Robert Schröder,Match Report,,Dortmund
+42,2022-04-23,18:30,Bundesliga,Matchweek 31,Sat,Away,L,1.0,3.0,Bayern Munich,,,42.0,75000.0,Marco Reus,4-2-3-1,Daniel Siebert,Match Report,,Dortmund
+43,2022-04-30,15:30,Bundesliga,Matchweek 32,Sat,Home,,,,Bochum,,,,,,,,Head-to-Head,,Dortmund
+44,2022-05-07,15:30,Bundesliga,Matchweek 33,Sat,Away,,,,Greuther Fürth,,,,,,,,Head-to-Head,,Dortmund
+45,2022-05-14,15:30,Bundesliga,Matchweek 34,Sat,Home,,,,Hertha BSC,,,,,,,,Head-to-Head,,Dortmund
+1,2021-08-14,15:30,Bundesliga,Matchweek 1,Sat,Away,D,1.0,1.0,Union Berlin,0.7,0.5,67.0,11000.0,Lukáš Hrádecký,4-2-3-1,Tobias Reichel,Match Report,,Leverkusen
+2,2021-08-21,18:30,Bundesliga,Matchweek 2,Sat,Home,W,4.0,0.0,M'Gladbach,2.0,1.7,46.0,15105.0,Lukáš Hrádecký,4-2-3-1,Deniz Aytekin,Match Report,,Leverkusen
+3,2021-08-28,15:30,Bundesliga,Matchweek 3,Sat,Away,W,4.0,1.0,Augsburg,2.1,1.5,58.0,10582.0,Lukáš Hrádecký,4-2-3-1,Benjamin Brand,Match Report,,Leverkusen
+4,2021-09-11,15:30,Bundesliga,Matchweek 4,Sat,Home,L,3.0,4.0,Dortmund,0.9,2.1,42.0,17605.0,Lukáš Hrádecký,4-2-3-1,Daniel Siebert,Match Report,,Leverkusen
+6,2021-09-19,15:30,Bundesliga,Matchweek 5,Sun,Away,W,3.0,1.0,Stuttgart,1.5,1.1,36.0,23450.0,Lukáš Hrádecký,4-2-3-1,Benjamin Cortus,Match Report,,Leverkusen
+7,2021-09-25,15:30,Bundesliga,Matchweek 6,Sat,Home,W,1.0,0.0,Mainz 05,1.6,1.0,66.0,16624.0,Lukáš Hrádecký,4-2-3-1,Bastian Dankert,Match Report,,Leverkusen
+9,2021-10-03,19:30,Bundesliga,Matchweek 7,Sun,Away,W,4.0,0.0,Arminia,3.0,0.4,67.0,16250.0,Lukáš Hrádecký,4-2-3-1,Felix Zwayer,Match Report,,Leverkusen
+10,2021-10-17,15:30,Bundesliga,Matchweek 8,Sun,Home,L,1.0,5.0,Bayern Munich,0.8,3.1,41.0,29542.0,Lukáš Hrádecký,4-2-3-1,Sven Jablonski,Match Report,,Leverkusen
+12,2021-10-24,15:30,Bundesliga,Matchweek 9,Sun,Away,D,2.0,2.0,Köln,1.4,1.9,39.0,49600.0,Lukáš Hrádecký,4-2-3-1,Felix Zwayer,Match Report,,Leverkusen
+14,2021-10-30,15:30,Bundesliga,Matchweek 10,Sat,Home,L,0.0,2.0,Wolfsburg,1.4,1.7,64.0,20132.0,Lukáš Hrádecký,3-4-3,Deniz Aytekin,Match Report,,Leverkusen
+16,2021-11-07,15:30,Bundesliga,Matchweek 11,Sun,Away,D,1.0,1.0,Hertha BSC,1.0,0.9,53.0,22187.0,Lukáš Hrádecký,4-2-3-1,Robert Hartmann,Match Report,,Leverkusen
+17,2021-11-20,15:30,Bundesliga,Matchweek 12,Sat,Home,W,1.0,0.0,Bochum,1.7,0.8,56.0,22538.0,Lukáš Hrádecký,4-4-2,Daniel Schlager,Match Report,,Leverkusen
+19,2021-11-28,17:30,Bundesliga,Matchweek 13,Sun,Away,W,3.0,1.0,RB Leipzig,1.8,1.6,42.0,,Lukáš Hrádecký,4-2-3-1,Benjamin Cortus,Match Report,,Leverkusen
+20,2021-12-04,15:30,Bundesliga,Matchweek 14,Sat,Home,W,7.0,1.0,Greuther Fürth,2.8,0.4,60.0,10455.0,Lukáš Hrádecký,4-2-3-1,Tobias Reichel,Match Report,,Leverkusen
+22,2021-12-12,17:30,Bundesliga,Matchweek 15,Sun,Away,L,2.0,5.0,Eint Frankfurt,1.7,1.6,56.0,12000.0,Lukáš Hrádecký,4-2-3-1,Marco Fritz,Match Report,,Leverkusen
+23,2021-12-15,20:30,Bundesliga,Matchweek 16,Wed,Home,D,2.0,2.0,Hoffenheim,2.0,1.9,46.0,13272.0,Lukáš Hrádecký,4-2-3-1,Tobias Stieler,Match Report,,Leverkusen
+24,2021-12-19,15:30,Bundesliga,Matchweek 17,Sun,Away,L,1.0,2.0,Freiburg,1.0,2.0,56.0,750.0,Lukáš Hrádecký,4-3-2-1,Benjamin Cortus,Match Report,,Leverkusen
+25,2022-01-08,15:30,Bundesliga,Matchweek 18,Sat,Home,D,2.0,2.0,Union Berlin,1.8,2.4,64.0,,Lukáš Hrádecký,4-2-3-1,Matthias Jöllenbeck,Match Report,,Leverkusen
+26,2022-01-15,18:30,Bundesliga,Matchweek 19,Sat,Away,W,2.0,1.0,M'Gladbach,4.4,1.5,45.0,750.0,Lukáš Hrádecký,4-2-3-1,Sascha Stegemann,Match Report,,Leverkusen
+27,2022-01-22,15:30,Bundesliga,Matchweek 20,Sat,Home,W,5.0,1.0,Augsburg,3.2,1.4,66.0,750.0,Lukáš Hrádecký,4-1-4-1,Daniel Schlager,Match Report,,Leverkusen
+28,2022-02-06,15:30,Bundesliga,Matchweek 21,Sun,Away,W,5.0,2.0,Dortmund,2.1,1.3,36.0,10000.0,Jonathan Tah,4-2-3-1,Daniel Siebert,Match Report,,Leverkusen
+29,2022-02-12,18:30,Bundesliga,Matchweek 22,Sat,Home,W,4.0,2.0,Stuttgart,2.5,1.2,68.0,10000.0,Lukáš Hrádecký,4-2-3-1,Felix Brych,Match Report,,Leverkusen
+30,2022-02-18,20:30,Bundesliga,Matchweek 23,Fri,Away,L,2.0,3.0,Mainz 05,1.2,1.0,59.0,10000.0,Lukáš Hrádecký,4-2-3-1,Benjamin Cortus,Match Report,,Leverkusen
+31,2022-02-26,15:30,Bundesliga,Matchweek 24,Sat,Home,W,3.0,0.0,Arminia,2.6,0.4,71.0,10000.0,Lukáš Hrádecký,4-2-3-1,Martin Petersen,Match Report,,Leverkusen
+32,2022-03-05,15:30,Bundesliga,Matchweek 25,Sat,Away,D,1.0,1.0,Bayern Munich,1.8,1.4,32.0,25000.0,Lukáš Hrádecký,3-4-3,Daniel Siebert,Match Report,,Leverkusen
+34,2022-03-13,15:30,Bundesliga,Matchweek 26,Sun,Home,L,0.0,1.0,Köln,1.7,0.5,55.0,22658.0,Lukáš Hrádecký,4-2-3-1,Sascha Stegemann,Match Report,,Leverkusen
+36,2022-03-20,17:30,Bundesliga,Matchweek 27,Sun,Away,W,2.0,0.0,Wolfsburg,1.2,1.5,50.0,16554.0,Lukáš Hrádecký,3-4-1-2,Felix Brych,Match Report,,Leverkusen
+37,2022-04-02,15:30,Bundesliga,Matchweek 28,Sat,Home,W,2.0,1.0,Hertha BSC,2.1,0.8,68.0,23557.0,Lukáš Hrádecký,4-2-3-1,Matthias Jöllenbeck,Match Report,,Leverkusen
+38,2022-04-10,15:30,Bundesliga,Matchweek 29,Sun,Away,D,0.0,0.0,Bochum,1.2,1.0,59.0,25000.0,Lukáš Hrádecký,4-2-3-1,Felix Zwayer,Match Report,,Leverkusen
+39,2022-04-17,19:30,Bundesliga,Matchweek 30,Sun,Home,L,0.0,1.0,RB Leipzig,0.9,0.6,47.0,26119.0,Lukáš Hrádecký,3-4-1-2,Daniel Siebert,Match Report,,Leverkusen
+40,2022-04-23,15:30,Bundesliga,Matchweek 31,Sat,Away,W,4.0,1.0,Greuther Fürth,,,48.0,11579.0,Lukáš Hrádecký,4-2-2-2,Tobias Reichel,Match Report,,Leverkusen
+41,2022-05-02,20:30,Bundesliga,Matchweek 32,Mon,Home,,,,Eint Frankfurt,,,,,,,,Head-to-Head,,Leverkusen
+42,2022-05-07,15:30,Bundesliga,Matchweek 33,Sat,Away,,,,Hoffenheim,,,,,,,,Head-to-Head,,Leverkusen
+43,2022-05-14,15:30,Bundesliga,Matchweek 34,Sat,Home,,,,Freiburg,,,,,,,,Head-to-Head,,Leverkusen
+1,2021-08-15,15:30,Bundesliga,Matchweek 1,Sun,Away,L,0.0,1.0,Mainz 05,1.1,1.1,70.0,10500.0,Willi Orban,4-2-3-1,Daniel Siebert,Match Report,,RB Leipzig
+2,2021-08-20,20:30,Bundesliga,Matchweek 2,Fri,Home,W,4.0,0.0,Stuttgart,3.5,1.1,52.0,23100.0,Emil Forsberg,4-2-3-1,Florian Badstübner,Match Report,,RB Leipzig
+3,2021-08-29,17:30,Bundesliga,Matchweek 3,Sun,Away,L,0.0,1.0,Wolfsburg,1.4,1.1,52.0,12058.0,Péter Gulácsi,4-2-3-1,Tobias Stieler,Match Report,,RB Leipzig
+4,2021-09-11,18:30,Bundesliga,Matchweek 4,Sat,Home,L,1.0,4.0,Bayern Munich,0.5,4.2,52.0,34000.0,Péter Gulácsi,4-2-3-1,Deniz Aytekin,Match Report,,RB Leipzig
+6,2021-09-18,18:30,Bundesliga,Matchweek 5,Sat,Away,D,1.0,1.0,Köln,1.9,1.6,53.0,25000.0,Péter Gulácsi,4-2-3-1,Felix Brych,Match Report,,RB Leipzig
+7,2021-09-25,15:30,Bundesliga,Matchweek 6,Sat,Home,W,6.0,0.0,Hertha BSC,3.9,0.3,61.0,23500.0,Péter Gulácsi,3-4-3,Sascha Stegemann,Match Report,,RB Leipzig
+9,2021-10-02,18:30,Bundesliga,Matchweek 7,Sat,Home,W,3.0,0.0,Bochum,2.5,1.3,59.0,25598.0,Péter Gulácsi,3-4-3,Robert Hartmann,Match Report,,RB Leipzig
+10,2021-10-16,15:30,Bundesliga,Matchweek 8,Sat,Away,D,1.0,1.0,Freiburg,1.7,1.4,49.0,20000.0,Péter Gulácsi,4-3-3,Daniel Siebert,Match Report,,RB Leipzig
+12,2021-10-23,15:30,Bundesliga,Matchweek 9,Sat,Home,W,4.0,1.0,Greuther Fürth,2.5,1.5,56.0,24758.0,Péter Gulácsi,3-4-3,Christian Dingert,Match Report,,RB Leipzig
+14,2021-10-30,18:30,Bundesliga,Matchweek 10,Sat,Away,D,1.0,1.0,Eint Frankfurt,2.8,0.6,54.0,31000.0,Péter Gulácsi,3-4-3,Daniel Schlager,Match Report,,RB Leipzig
+16,2021-11-06,18:30,Bundesliga,Matchweek 11,Sat,Home,W,2.0,1.0,Dortmund,2.4,1.2,54.0,43429.0,Péter Gulácsi,3-4-3,Felix Zwayer,Match Report,,RB Leipzig
+17,2021-11-20,15:30,Bundesliga,Matchweek 12,Sat,Away,L,0.0,2.0,Hoffenheim,0.2,2.7,57.0,13233.0,Péter Gulácsi,3-4-3,Tobias Welz,Match Report,,RB Leipzig
+19,2021-11-28,17:30,Bundesliga,Matchweek 13,Sun,Home,L,1.0,3.0,Leverkusen,1.6,1.8,58.0,,Kevin Kampl,4-4-2◆,Benjamin Cortus,Match Report,,RB Leipzig
+20,2021-12-03,20:30,Bundesliga,Matchweek 14,Fri,Away,L,1.0,2.0,Union Berlin,1.3,3.3,62.0,13506.0,Péter Gulácsi,3-4-3,Harm Osmers,Match Report,,RB Leipzig
+22,2021-12-11,15:30,Bundesliga,Matchweek 15,Sat,Home,W,4.0,1.0,M'Gladbach,4.4,1.4,52.0,,Péter Gulácsi,3-4-1-2,Bastian Dankert,Match Report,,RB Leipzig
+23,2021-12-15,20:30,Bundesliga,Matchweek 16,Wed,Away,D,1.0,1.0,Augsburg,2.4,1.4,69.0,,Péter Gulácsi,3-4-1-2,Florian Badstübner,Match Report,,RB Leipzig
+24,2021-12-18,15:30,Bundesliga,Matchweek 17,Sat,Home,L,0.0,2.0,Arminia,2.0,0.6,76.0,,Péter Gulácsi,3-5-2,Frank Willenborg,Match Report,,RB Leipzig
+25,2022-01-08,15:30,Bundesliga,Matchweek 18,Sat,Home,W,4.0,1.0,Mainz 05,3.3,0.4,68.0,,Péter Gulácsi,3-4-1-2,Deniz Aytekin,Match Report,,RB Leipzig
+26,2022-01-15,15:30,Bundesliga,Matchweek 19,Sat,Away,W,2.0,0.0,Stuttgart,1.3,1.1,48.0,500.0,Péter Gulácsi,3-4-1-2,Daniel Schlager,Match Report,,RB Leipzig
+28,2022-01-23,15:30,Bundesliga,Matchweek 20,Sun,Home,W,2.0,0.0,Wolfsburg,1.3,0.9,53.0,1000.0,Péter Gulácsi,3-4-3,Daniel Siebert,Match Report,,RB Leipzig
+29,2022-02-05,18:30,Bundesliga,Matchweek 21,Sat,Away,L,2.0,3.0,Bayern Munich,2.1,2.9,42.0,10000.0,Péter Gulácsi,3-4-3,Sven Jablonski,Match Report,,RB Leipzig
+30,2022-02-11,20:30,Bundesliga,Matchweek 22,Fri,Home,W,3.0,1.0,Köln,1.0,0.9,49.0,15000.0,Péter Gulácsi,3-4-1-2,Florian Badstübner,Match Report,,RB Leipzig
+32,2022-02-20,19:30,Bundesliga,Matchweek 23,Sun,Away,W,6.0,1.0,Hertha BSC,3.1,0.7,64.0,10000.0,Péter Gulácsi,3-5-2,Patrick Ittrich,Match Report,,RB Leipzig
+34,2022-02-27,15:30,Bundesliga,Matchweek 24,Sun,Away,W,1.0,0.0,Bochum,0.7,1.0,48.0,10000.0,Péter Gulácsi,3-4-1-2,Felix Brych,Match Report,,RB Leipzig
+36,2022-03-05,15:30,Bundesliga,Matchweek 25,Sat,Home,D,1.0,1.0,Freiburg,0.7,0.5,72.0,24758.0,Péter Gulácsi,3-4-1-2,Felix Zwayer,Match Report,,RB Leipzig
+38,2022-03-13,19:30,Bundesliga,Matchweek 26,Sun,Away,W,6.0,1.0,Greuther Fürth,1.4,0.4,53.0,9418.0,Péter Gulácsi,3-4-1-2,Sven Jablonski,Match Report,,RB Leipzig
+40,2022-03-20,15:30,Bundesliga,Matchweek 27,Sun,Home,D,0.0,0.0,Eint Frankfurt,1.2,0.1,53.0,43058.0,Péter Gulácsi,3-4-1-2,Christian Dingert,Match Report,,RB Leipzig
+41,2022-04-02,18:30,Bundesliga,Matchweek 28,Sat,Away,W,4.0,1.0,Dortmund,0.9,0.8,37.0,81365.0,Péter Gulácsi,3-5-2,Marco Fritz,Match Report,,RB Leipzig
+43,2022-04-10,19:30,Bundesliga,Matchweek 29,Sun,Home,W,3.0,0.0,Hoffenheim,1.5,0.2,51.0,35112.0,Péter Gulácsi,3-4-3,Bastian Dankert,Match Report,,RB Leipzig
+45,2022-04-17,19:30,Bundesliga,Matchweek 30,Sun,Away,W,1.0,0.0,Leverkusen,0.6,0.9,53.0,26119.0,Péter Gulácsi,3-5-2,Daniel Siebert,Match Report,,RB Leipzig
+47,2022-04-23,15:30,Bundesliga,Matchweek 31,Sat,Home,L,1.0,2.0,Union Berlin,,,55.0,45770.0,Péter Gulácsi,3-1-4-2,Daniel Schlager,Match Report,,RB Leipzig
+49,2022-05-02,20:30,Bundesliga,Matchweek 32,Mon,Away,,,,M'Gladbach,,,,,,,,Head-to-Head,,RB Leipzig
+51,2022-05-08,19:30,Bundesliga,Matchweek 33,Sun,Home,,,,Augsburg,,,,,,,,Head-to-Head,,RB Leipzig
+52,2022-05-14,15:30,Bundesliga,Matchweek 34,Sat,Away,,,,Arminia,,,,,,,,Head-to-Head,,RB Leipzig
+1,2021-08-14,15:30,Bundesliga,Matchweek 1,Sat,Away,D,0,0,Arminia,1.4,0.9,55.0,13750.0,Christian Günter,3-4-3,Sven Jablonski,Match Report,,Freiburg
+2,2021-08-21,15:30,Bundesliga,Matchweek 2,Sat,Home,W,2,1,Dortmund,1.0,1.5,23.0,10100.0,Christian Günter,4-4-2,Robert Schröder,Match Report,,Freiburg
+3,2021-08-28,15:30,Bundesliga,Matchweek 3,Sat,Away,W,3,2,Stuttgart,1.2,1.5,37.0,25000.0,Christian Günter,4-4-2,Frank Willenborg,Match Report,,Freiburg
+4,2021-09-11,15:30,Bundesliga,Matchweek 4,Sat,Home,D,1,1,Köln,0.6,0.8,54.0,10000.0,Christian Günter,4-4-2,Harm Osmers,Match Report,,Freiburg
+5,2021-09-18,15:30,Bundesliga,Matchweek 5,Sat,Away,D,0,0,Mainz 05,0.7,0.8,53.0,13500.0,Christian Günter,3-4-3,Benjamin Brand,Match Report,,Freiburg
+6,2021-09-26,17:30,Bundesliga,Matchweek 6,Sun,Home,W,3,0,Augsburg,3.0,0.2,60.0,14400.0,Christian Günter,3-4-3,Daniel Schlager,Match Report,,Freiburg
+7,2021-10-02,15:30,Bundesliga,Matchweek 7,Sat,Away,W,2,1,Hertha BSC,1.0,1.0,55.0,18376.0,Christian Günter,3-4-3,Patrick Ittrich,Match Report,,Freiburg
+8,2021-10-16,15:30,Bundesliga,Matchweek 8,Sat,Home,D,1,1,RB Leipzig,1.4,1.7,51.0,20000.0,Christian Günter,3-4-3,Daniel Siebert,Match Report,,Freiburg
+9,2021-10-23,15:30,Bundesliga,Matchweek 9,Sat,Away,W,2,0,Wolfsburg,1.5,1.8,44.0,10251.0,Christian Günter,3-4-3,Tobias Welz,Match Report,,Freiburg
+11,2021-10-30,15:30,Bundesliga,Matchweek 10,Sat,Home,W,3,1,Greuther Fürth,1.3,0.7,51.0,31500.0,Christian Günter,4-2-3-1,Felix Brych,Match Report,,Freiburg
+12,2021-11-06,15:30,Bundesliga,Matchweek 11,Sat,Away,L,1,2,Bayern Munich,1.1,3.5,37.0,75000.0,Christian Günter,3-4-3,Sascha Stegemann,Match Report,,Freiburg
+13,2021-11-21,15:30,Bundesliga,Matchweek 12,Sun,Home,L,0,2,Eint Frankfurt,1.7,1.3,62.0,32500.0,Christian Günter,3-4-3,Florian Badstübner,Match Report,,Freiburg
+14,2021-11-27,15:30,Bundesliga,Matchweek 13,Sat,Away,L,1,2,Bochum,2.1,1.0,58.0,19700.0,Christian Günter,4-4-1-1,Patrick Ittrich,Match Report,,Freiburg
+15,2021-12-05,17:30,Bundesliga,Matchweek 14,Sun,Away,W,6,0,M'Gladbach,1.8,1.1,36.0,10025.0,Christian Günter,4-4-2,Robert Hartmann,Match Report,,Freiburg
+16,2021-12-11,15:30,Bundesliga,Matchweek 15,Sat,Home,L,1,2,Hoffenheim,1.6,1.1,43.0,750.0,Christian Günter,4-4-1-1,Frank Willenborg,Match Report,,Freiburg
+17,2021-12-15,20:30,Bundesliga,Matchweek 16,Wed,Away,D,0,0,Union Berlin,1.4,1.8,45.0,5000.0,Christian Günter,3-4-3,Deniz Aytekin,Match Report,,Freiburg
+18,2021-12-19,15:30,Bundesliga,Matchweek 17,Sun,Home,W,2,1,Leverkusen,2.0,1.0,44.0,750.0,Christian Günter,4-2-3-1,Benjamin Cortus,Match Report,,Freiburg
+19,2022-01-08,15:30,Bundesliga,Matchweek 18,Sat,Home,D,2,2,Arminia,2.0,0.9,50.0,,Christian Günter,4-2-3-1,Harm Osmers,Match Report,,Freiburg
+20,2022-01-14,20:30,Bundesliga,Matchweek 19,Fri,Away,L,1,5,Dortmund,0.7,1.8,34.0,750.0,Christian Günter,4-4-2,Florian Badstübner,Match Report,,Freiburg
+22,2022-01-22,15:30,Bundesliga,Matchweek 20,Sat,Home,W,2,0,Stuttgart,1.6,0.5,51.0,500.0,Christian Günter,4-4-1-1,Tobias Stieler,Match Report,,Freiburg
+23,2022-02-05,15:30,Bundesliga,Matchweek 21,Sat,Away,L,0,1,Köln,1.3,1.3,59.0,10000.0,Christian Günter,4-4-2,Felix Brych,Match Report,,Freiburg
+24,2022-02-12,15:30,Bundesliga,Matchweek 22,Sat,Home,D,1,1,Mainz 05,1.7,2.1,60.0,10000.0,Christian Günter,4-2-3-1,Deniz Aytekin,Match Report,,Freiburg
+25,2022-02-19,15:30,Bundesliga,Matchweek 23,Sat,Away,W,2,1,Augsburg,1.6,0.8,46.0,15000.0,Christian Günter,4-2-3-1,Daniel Siebert,Match Report,,Freiburg
+26,2022-02-26,15:30,Bundesliga,Matchweek 24,Sat,Home,W,3,0,Hertha BSC,2.8,1.9,58.0,25000.0,Christian Günter,4-2-3-1,Sven Jablonski,Match Report,,Freiburg
+28,2022-03-05,15:30,Bundesliga,Matchweek 25,Sat,Away,D,1,1,RB Leipzig,0.5,0.7,28.0,24758.0,Christian Günter,3-5-2,Felix Zwayer,Match Report,,Freiburg
+29,2022-03-12,15:30,Bundesliga,Matchweek 26,Sat,Home,W,3,2,Wolfsburg,1.9,1.2,42.0,25000.0,Christian Günter,3-4-3,Martin Petersen,Match Report,,Freiburg
+30,2022-03-19,15:30,Bundesliga,Matchweek 27,Sat,Away,D,0,0,Greuther Fürth,0.8,0.7,61.0,9884.0,Christian Günter,4-4-2,Tobias Reichel,Match Report,,Freiburg
+31,2022-04-02,15:30,Bundesliga,Matchweek 28,Sat,Home,L,1,4,Bayern Munich,0.6,2.0,39.0,34700.0,Christian Günter,3-4-3,Christian Dingert,Match Report,,Freiburg
+32,2022-04-10,17:30,Bundesliga,Matchweek 29,Sun,Away,W,2,1,Eint Frankfurt,0.8,1.2,46.0,47000.0,Christian Günter,4-4-1-1,Felix Brych,Match Report,,Freiburg
+33,2022-04-16,15:30,Bundesliga,Matchweek 30,Sat,Home,W,3,0,Bochum,1.8,0.7,61.0,34000.0,Christian Günter,4-2-3-1,Sascha Stegemann,Match Report,,Freiburg
+35,2022-04-23,15:30,Bundesliga,Matchweek 31,Sat,Home,D,3,3,M'Gladbach,,,62.0,34700.0,Christian Günter,4-4-1-1,Benjamin Brand,Match Report,,Freiburg
+36,2022-04-30,18:30,Bundesliga,Matchweek 32,Sat,Away,,,,Hoffenheim,,,,,,,,Head-to-Head,,Freiburg
+37,2022-05-07,15:30,Bundesliga,Matchweek 33,Sat,Home,,,,Union Berlin,,,,,,,,Head-to-Head,,Freiburg
+38,2022-05-14,15:30,Bundesliga,Matchweek 34,Sat,Away,,,,Leverkusen,,,,,,,,Head-to-Head,,Freiburg
+1,2021-08-14,15:30,Bundesliga,Matchweek 1,Sat,Home,D,1.0,1.0,Leverkusen,0.5,0.7,33.0,11000.0,Christopher Trimmel,3-5-2,Tobias Reichel,Match Report,,Union Berlin
+3,2021-08-22,15:30,Bundesliga,Matchweek 2,Sun,Away,D,2.0,2.0,Hoffenheim,1.6,0.9,36.0,8014.0,Marvin Friedrich,3-5-2,Sascha Stegemann,Match Report,,Union Berlin
+5,2021-08-29,15:30,Bundesliga,Matchweek 3,Sun,Home,W,2.0,1.0,M'Gladbach,1.9,2.2,27.0,11006.0,Christopher Trimmel,3-5-2,Felix Brych,Match Report,,Union Berlin
+6,2021-09-11,15:30,Bundesliga,Matchweek 4,Sat,Home,D,0.0,0.0,Augsburg,1.3,1.3,60.0,10207.0,Christopher Trimmel,3-5-2,Martin Petersen,Match Report,,Union Berlin
+8,2021-09-19,17:30,Bundesliga,Matchweek 5,Sun,Away,L,2.0,4.0,Dortmund,1.4,0.9,37.0,25000.0,Marvin Friedrich,3-4-1-2,Sven Jablonski,Match Report,,Union Berlin
+9,2021-09-25,15:30,Bundesliga,Matchweek 6,Sat,Home,W,1.0,0.0,Arminia,1.2,0.6,55.0,11000.0,Christopher Trimmel,3-5-2,Marco Fritz,Match Report,,Union Berlin
+11,2021-10-03,15:30,Bundesliga,Matchweek 7,Sun,Away,W,2.0,1.0,Mainz 05,1.3,1.1,47.0,16000.0,Marvin Friedrich,3-4-1-2,Tobias Stieler,Match Report,,Union Berlin
+12,2021-10-16,15:30,Bundesliga,Matchweek 8,Sat,Home,W,2.0,0.0,Wolfsburg,1.2,1.8,39.0,11000.0,Marvin Friedrich,3-5-2,Sascha Stegemann,Match Report,,Union Berlin
+14,2021-10-24,17:30,Bundesliga,Matchweek 9,Sun,Away,D,1.0,1.0,Stuttgart,1.2,0.5,44.0,32595.0,Christopher Trimmel,3-5-2,Florian Badstübner,Match Report,,Union Berlin
+16,2021-10-30,15:30,Bundesliga,Matchweek 10,Sat,Home,L,2.0,5.0,Bayern Munich,1.1,3.3,40.0,16509.0,Christopher Trimmel,3-5-2,Harm Osmers,Match Report,,Union Berlin
+18,2021-11-07,17:30,Bundesliga,Matchweek 11,Sun,Away,D,2.0,2.0,Köln,1.1,2.1,30.0,49000.0,Marvin Friedrich,3-5-2,Tobias Stieler,Match Report,,Union Berlin
+19,2021-11-20,18:30,Bundesliga,Matchweek 12,Sat,Home,W,2.0,0.0,Hertha BSC,2.0,0.5,43.0,22012.0,Christopher Trimmel,3-5-2,Felix Brych,Match Report,,Union Berlin
+21,2021-11-28,15:30,Bundesliga,Matchweek 13,Sun,Away,L,1.0,2.0,Eint Frankfurt,1.3,1.9,45.0,24000.0,Christopher Trimmel,3-5-2,Sascha Stegemann,Match Report,,Union Berlin
+22,2021-12-03,20:30,Bundesliga,Matchweek 14,Fri,Home,W,2.0,1.0,RB Leipzig,3.3,1.3,38.0,13506.0,Marvin Friedrich,3-4-1-2,Harm Osmers,Match Report,,Union Berlin
+24,2021-12-12,15:30,Bundesliga,Matchweek 15,Sun,Away,L,0.0,1.0,Greuther Fürth,1.2,0.7,62.0,,Grischa Prömel,3-5-2,Sven Jablonski,Match Report,,Union Berlin
+25,2021-12-15,20:30,Bundesliga,Matchweek 16,Wed,Home,D,0.0,0.0,Freiburg,1.8,1.4,55.0,5000.0,Grischa Prömel,3-5-2,Deniz Aytekin,Match Report,,Union Berlin
+26,2021-12-18,15:30,Bundesliga,Matchweek 17,Sat,Away,W,1.0,0.0,Bochum,1.0,0.9,45.0,13500.0,Christopher Trimmel,3-4-1-2,Tobias Reichel,Match Report,,Union Berlin
+27,2022-01-08,15:30,Bundesliga,Matchweek 18,Sat,Away,D,2.0,2.0,Leverkusen,2.4,1.8,36.0,,Christopher Trimmel,3-5-2,Matthias Jöllenbeck,Match Report,,Union Berlin
+28,2022-01-15,15:30,Bundesliga,Matchweek 19,Sat,Home,W,2.0,1.0,Hoffenheim,1.6,1.3,42.0,3000.0,Christopher Trimmel,3-5-2,Martin Petersen,Match Report,,Union Berlin
+30,2022-01-22,15:30,Bundesliga,Matchweek 20,Sat,Away,W,2.0,1.0,M'Gladbach,1.1,1.0,41.0,750.0,Christopher Trimmel,3-5-2,Felix Brych,Match Report,,Union Berlin
+31,2022-02-05,15:30,Bundesliga,Matchweek 21,Sat,Away,L,0.0,2.0,Augsburg,1.6,2.0,53.0,7600.0,Christopher Trimmel,3-5-2,Harm Osmers,Match Report,,Union Berlin
+32,2022-02-13,15:30,Bundesliga,Matchweek 22,Sun,Home,L,0.0,3.0,Dortmund,1.3,1.9,40.0,10000.0,Christopher Trimmel,3-5-2,Matthias Jöllenbeck,Match Report,,Union Berlin
+33,2022-02-19,15:30,Bundesliga,Matchweek 23,Sat,Away,L,0.0,1.0,Arminia,1.0,1.1,58.0,10000.0,Grischa Prömel,3-5-2,Daniel Schlager,Match Report,,Union Berlin
+34,2022-02-26,15:30,Bundesliga,Matchweek 24,Sat,Home,W,3.0,1.0,Mainz 05,0.9,0.8,48.0,10000.0,Christopher Trimmel,3-5-2,Bastian Dankert,Match Report,,Union Berlin
+36,2022-03-05,15:30,Bundesliga,Matchweek 25,Sat,Away,L,0.0,1.0,Wolfsburg,1.1,0.6,54.0,15703.0,Grischa Prömel,3-5-2,Patrick Ittrich,Match Report,,Union Berlin
+37,2022-03-12,15:30,Bundesliga,Matchweek 26,Sat,Home,D,1.0,1.0,Stuttgart,1.2,1.2,44.0,16509.0,Christopher Trimmel,3-5-2,Robert Hartmann,Match Report,,Union Berlin
+38,2022-03-19,18:30,Bundesliga,Matchweek 27,Sat,Away,L,0.0,4.0,Bayern Munich,0.8,2.9,29.0,37000.0,Rani Khedira,3-5-2,Harm Osmers,Match Report,,Union Berlin
+39,2022-04-01,20:30,Bundesliga,Matchweek 28,Fri,Home,W,1.0,0.0,Köln,1.7,0.5,39.0,22012.0,Christopher Trimmel,3-5-2,Florian Badstübner,Match Report,,Union Berlin
+40,2022-04-09,18:30,Bundesliga,Matchweek 29,Sat,Away,W,4.0,1.0,Hertha BSC,2.3,0.8,49.0,74667.0,Christopher Trimmel,3-5-2,Sven Jablonski,Match Report,,Union Berlin
+41,2022-04-17,17:30,Bundesliga,Matchweek 30,Sun,Home,W,2.0,0.0,Eint Frankfurt,1.2,0.5,45.0,22000.0,Grischa Prömel,3-5-2,Frank Willenborg,Match Report,,Union Berlin
+43,2022-04-23,15:30,Bundesliga,Matchweek 31,Sat,Away,W,2.0,1.0,RB Leipzig,,,45.0,45770.0,Christopher Trimmel,3-5-2,Daniel Schlager,Match Report,,Union Berlin
+44,2022-04-29,20:30,Bundesliga,Matchweek 32,Fri,Home,,,,Greuther Fürth,,,,,,,,Head-to-Head,,Union Berlin
+45,2022-05-07,15:30,Bundesliga,Matchweek 33,Sat,Away,,,,Freiburg,,,,,,,,Head-to-Head,,Union Berlin
+46,2022-05-14,15:30,Bundesliga,Matchweek 34,Sat,Home,,,,Bochum,,,,,,,,Head-to-Head,,Union Berlin
+1,2021-08-15,17:30,Bundesliga,Matchweek 1,Sun,Home,W,3,1,Hertha BSC,1.7,1.9,60.0,16500.0,Jonas Hector,4-4-2◆,Robert Hartmann,Match Report,,Köln
+2,2021-08-22,17:30,Bundesliga,Matchweek 2,Sun,Away,L,2,3,Bayern Munich,0.8,2.6,43.0,20000.0,Jonas Hector,4-4-2◆,Martin Petersen,Match Report,,Köln
+3,2021-08-28,15:30,Bundesliga,Matchweek 3,Sat,Home,W,2,1,Bochum,2.0,1.0,71.0,25000.0,Jonas Hector,4-4-2◆,Benjamin Cortus,Match Report,,Köln
+4,2021-09-11,15:30,Bundesliga,Matchweek 4,Sat,Away,D,1,1,Freiburg,0.8,0.6,46.0,10000.0,Jonas Hector,4-4-2◆,Harm Osmers,Match Report,,Köln
+5,2021-09-18,18:30,Bundesliga,Matchweek 5,Sat,Home,D,1,1,RB Leipzig,1.6,1.9,47.0,25000.0,Jonas Hector,4-4-2◆,Felix Brych,Match Report,,Köln
+6,2021-09-25,15:30,Bundesliga,Matchweek 6,Sat,Away,D,1,1,Eint Frankfurt,1.0,1.2,52.0,24000.0,Jonas Hector,4-4-2◆,Martin Petersen,Match Report,,Köln
+7,2021-10-01,20:30,Bundesliga,Matchweek 7,Fri,Home,W,3,1,Greuther Fürth,2.7,1.2,66.0,40000.0,Jonas Hector,4-4-2◆,Matthias Jöllenbeck,Match Report,,Köln
+8,2021-10-15,20:30,Bundesliga,Matchweek 8,Fri,Away,L,0,5,Hoffenheim,0.7,3.7,50.0,14309.0,Rafael Czichos,4-4-2◆,Tobias Reichel,Match Report,,Köln
+9,2021-10-24,15:30,Bundesliga,Matchweek 9,Sun,Home,D,2,2,Leverkusen,1.9,1.4,61.0,49600.0,Jonas Hector,4-4-2◆,Felix Zwayer,Match Report,,Köln
+11,2021-10-30,15:30,Bundesliga,Matchweek 10,Sat,Away,L,0,2,Dortmund,1.3,1.3,57.0,66709.0,Jonas Hector,4-4-2◆,Martin Petersen,Match Report,,Köln
+12,2021-11-07,17:30,Bundesliga,Matchweek 11,Sun,Home,D,2,2,Union Berlin,2.1,1.1,70.0,49000.0,Jonas Hector,4-2-3-1,Tobias Stieler,Match Report,,Köln
+13,2021-11-21,17:30,Bundesliga,Matchweek 12,Sun,Away,D,1,1,Mainz 05,1.7,0.9,58.0,25500.0,Jonas Hector,4-2-3-1,Deniz Aytekin,Match Report,,Köln
+14,2021-11-27,15:30,Bundesliga,Matchweek 13,Sat,Home,W,4,1,M'Gladbach,1.7,1.1,49.0,50000.0,Jonas Hector,4-2-3-1,Robert Schröder,Match Report,,Köln
+15,2021-12-04,15:30,Bundesliga,Matchweek 14,Sat,Away,D,1,1,Arminia,1.1,1.5,57.0,8231.0,Rafael Czichos,4-2-3-1,Felix Brych,Match Report,,Köln
+16,2021-12-10,20:30,Bundesliga,Matchweek 15,Fri,Home,L,0,2,Augsburg,1.2,0.7,63.0,15000.0,Jonas Hector,4-4-2◆,Patrick Ittrich,Match Report,,Köln
+17,2021-12-14,20:30,Bundesliga,Matchweek 16,Tue,Away,W,3,2,Wolfsburg,3.3,2.5,60.0,5000.0,Jonas Hector,4-4-2◆,Robert Hartmann,Match Report,,Köln
+18,2021-12-19,17:30,Bundesliga,Matchweek 17,Sun,Home,W,1,0,Stuttgart,1.1,0.4,50.0,15000.0,Jonas Hector,4-4-2◆,Bastian Dankert,Match Report,,Köln
+19,2022-01-09,15:30,Bundesliga,Matchweek 18,Sun,Away,W,3,1,Hertha BSC,1.7,1.0,47.0,3000.0,Jonas Hector,4-4-2◆,Tobias Stieler,Match Report,,Köln
+20,2022-01-15,15:30,Bundesliga,Matchweek 19,Sat,Home,L,0,4,Bayern Munich,1.2,3.4,48.0,1000.0,Jonas Hector,4-4-2◆,Tobias Welz,Match Report,,Köln
+22,2022-01-22,18:30,Bundesliga,Matchweek 20,Sat,Away,D,2,2,Bochum,1.0,1.8,46.0,750.0,Jonas Hector,4-4-2◆,Matthias Jöllenbeck,Match Report,,Köln
+23,2022-02-05,15:30,Bundesliga,Matchweek 21,Sat,Home,W,1,0,Freiburg,1.3,1.3,41.0,10000.0,Jonas Hector,4-4-2◆,Felix Brych,Match Report,,Köln
+24,2022-02-11,20:30,Bundesliga,Matchweek 22,Fri,Away,L,1,3,RB Leipzig,0.9,1.0,51.0,15000.0,Jonas Hector,4-2-3-1,Florian Badstübner,Match Report,,Köln
+25,2022-02-19,18:30,Bundesliga,Matchweek 23,Sat,Home,W,1,0,Eint Frankfurt,1.3,0.7,57.0,10000.0,Jonas Hector,4-2-3-1,Christian Dingert,Match Report,,Köln
+26,2022-02-26,15:30,Bundesliga,Matchweek 24,Sat,Away,D,1,1,Greuther Fürth,0.8,0.8,59.0,9200.0,Jonas Hector,4-4-2◆,Robert Schörgenhofer,Match Report,,Köln
+27,2022-03-06,17:30,Bundesliga,Matchweek 25,Sun,Home,L,0,1,Hoffenheim,1.3,2.1,55.0,37500.0,Anthony Modeste,4-2-3-1,Marco Fritz,Match Report,,Köln
+28,2022-03-13,15:30,Bundesliga,Matchweek 26,Sun,Away,W,1,0,Leverkusen,0.5,1.7,45.0,22658.0,Jonas Hector,4-4-2◆,Sascha Stegemann,Match Report,,Köln
+29,2022-03-20,19:30,Bundesliga,Matchweek 27,Sun,Home,D,1,1,Dortmund,1.2,1.1,54.0,50000.0,Anthony Modeste,4-4-2◆,Daniel Siebert,Match Report,,Köln
+30,2022-04-01,20:30,Bundesliga,Matchweek 28,Fri,Away,L,0,1,Union Berlin,0.5,1.7,61.0,22012.0,Jonas Hector,4-2-3-1,Florian Badstübner,Match Report,,Köln
+31,2022-04-09,15:30,Bundesliga,Matchweek 29,Sat,Home,W,3,2,Mainz 05,2.1,0.9,54.0,49800.0,Jonas Hector,4-2-3-1,Martin Petersen,Match Report,,Köln
+32,2022-04-16,18:30,Bundesliga,Matchweek 30,Sat,Away,W,3,1,M'Gladbach,2.3,2.0,43.0,54042.0,Jonas Hector,4-2-3-1,Deniz Aytekin,Match Report,,Köln
+33,2022-04-23,15:30,Bundesliga,Matchweek 31,Sat,Home,W,3,1,Arminia,,,55.0,50000.0,Jonas Hector,4-2-3-1,Tobias Stieler,Match Report,,Köln
+34,2022-04-30,15:30,Bundesliga,Matchweek 32,Sat,Away,,,,Augsburg,,,,,,,,Head-to-Head,,Köln
+35,2022-05-07,15:30,Bundesliga,Matchweek 33,Sat,Home,,,,Wolfsburg,,,,,,,,Head-to-Head,,Köln
+36,2022-05-14,15:30,Bundesliga,Matchweek 34,Sat,Away,,,,Stuttgart,,,,,,,,Head-to-Head,,Köln
+1,2021-08-14,15:30,Bundesliga,Matchweek 1,Sat,Away,W,4.0,0.0,Augsburg,3.4,0.6,53.0,9124.0,Oliver Baumann,4-2-3-1,Felix Brych,Match Report,,Hoffenheim
+2,2021-08-22,15:30,Bundesliga,Matchweek 2,Sun,Home,D,2.0,2.0,Union Berlin,0.9,1.6,64.0,8014.0,Oliver Baumann,4-4-2,Sascha Stegemann,Match Report,,Hoffenheim
+3,2021-08-27,20:30,Bundesliga,Matchweek 3,Fri,Away,L,2.0,3.0,Dortmund,1.8,3.6,41.0,25000.0,Oliver Baumann,4-2-3-1,Felix Zwayer,Match Report,,Hoffenheim
+4,2021-09-11,15:30,Bundesliga,Matchweek 4,Sat,Home,L,0.0,2.0,Mainz 05,0.8,1.1,63.0,8427.0,Oliver Baumann,4-2-3-1,Marco Fritz,Match Report,,Hoffenheim
+5,2021-09-18,15:30,Bundesliga,Matchweek 5,Sat,Away,D,0.0,0.0,Arminia,1.5,1.1,57.0,13750.0,Oliver Baumann,4-2-3-1,Patrick Ittrich,Match Report,,Hoffenheim
+6,2021-09-25,15:30,Bundesliga,Matchweek 6,Sat,Home,W,3.0,1.0,Wolfsburg,1.7,0.6,50.0,8523.0,Oliver Baumann,4-4-2,Daniel Siebert,Match Report,,Hoffenheim
+7,2021-10-02,15:30,Bundesliga,Matchweek 7,Sat,Away,L,1.0,3.0,Stuttgart,1.3,0.8,58.0,24211.0,Oliver Baumann,4-3-3,Harm Osmers,Match Report,,Hoffenheim
+8,2021-10-15,20:30,Bundesliga,Matchweek 8,Fri,Home,W,5.0,0.0,Köln,3.7,0.7,50.0,14309.0,Oliver Baumann,3-4-1-2,Tobias Reichel,Match Report,,Hoffenheim
+9,2021-10-23,15:30,Bundesliga,Matchweek 9,Sat,Away,L,0.0,4.0,Bayern Munich,0.7,2.1,38.0,60000.0,Oliver Baumann,3-4-3,Matthias Jöllenbeck,Match Report,,Hoffenheim
+11,2021-10-29,20:30,Bundesliga,Matchweek 10,Fri,Home,W,2.0,0.0,Hertha BSC,1.0,0.4,54.0,8127.0,Oliver Baumann,3-4-1-2,Sven Jablonski,Match Report,,Hoffenheim
+12,2021-11-06,15:30,Bundesliga,Matchweek 11,Sat,Away,L,0.0,2.0,Bochum,0.6,2.3,62.0,19600.0,Oliver Baumann,3-5-2,Frank Willenborg,Match Report,,Hoffenheim
+13,2021-11-20,15:30,Bundesliga,Matchweek 12,Sat,Home,W,2.0,0.0,RB Leipzig,2.7,0.2,43.0,13233.0,Oliver Baumann,3-4-3,Tobias Welz,Match Report,,Hoffenheim
+14,2021-11-27,15:30,Bundesliga,Matchweek 13,Sat,Away,W,6.0,3.0,Greuther Fürth,3.0,1.4,51.0,3385.0,Florian Grillitsch,4-3-3,Bastian Dankert,Match Report,,Hoffenheim
+15,2021-12-04,15:30,Bundesliga,Matchweek 14,Sat,Home,W,3.0,2.0,Eint Frankfurt,0.9,1.7,49.0,,Oliver Baumann,3-4-3,Daniel Schlager,Match Report,,Hoffenheim
+16,2021-12-11,15:30,Bundesliga,Matchweek 15,Sat,Away,W,2.0,1.0,Freiburg,1.1,1.6,57.0,750.0,Oliver Baumann,3-4-3,Frank Willenborg,Match Report,,Hoffenheim
+17,2021-12-15,20:30,Bundesliga,Matchweek 16,Wed,Away,D,2.0,2.0,Leverkusen,1.9,2.0,54.0,13272.0,Oliver Baumann,3-4-1-2,Tobias Stieler,Match Report,,Hoffenheim
+18,2021-12-18,15:30,Bundesliga,Matchweek 17,Sat,Home,D,1.0,1.0,M'Gladbach,2.3,1.6,60.0,750.0,Oliver Baumann,3-4-3,Sven Jablonski,Match Report,,Hoffenheim
+19,2022-01-08,15:30,Bundesliga,Matchweek 18,Sat,Home,W,3.0,1.0,Augsburg,1.8,0.7,57.0,500.0,Oliver Baumann,3-5-2,Benjamin Cortus,Match Report,,Hoffenheim
+20,2022-01-15,15:30,Bundesliga,Matchweek 19,Sat,Away,L,1.0,2.0,Union Berlin,1.3,1.6,58.0,3000.0,Oliver Baumann,3-5-2,Martin Petersen,Match Report,,Hoffenheim
+22,2022-01-22,15:30,Bundesliga,Matchweek 20,Sat,Home,L,2.0,3.0,Dortmund,1.5,1.5,58.0,500.0,Benjamin Hübner,3-4-1-2,Deniz Aytekin,Match Report,,Hoffenheim
+23,2022-02-05,15:30,Bundesliga,Matchweek 21,Sat,Away,L,0.0,2.0,Mainz 05,1.6,2.0,59.0,6800.0,Benjamin Hübner,3-4-3,Christian Dingert,Match Report,,Hoffenheim
+24,2022-02-13,17:30,Bundesliga,Matchweek 22,Sun,Home,W,2.0,0.0,Arminia,2.3,0.8,52.0,10000.0,Benjamin Hübner,3-5-2,Robert Hartmann,Match Report,,Hoffenheim
+25,2022-02-19,15:30,Bundesliga,Matchweek 23,Sat,Away,W,2.0,1.0,Wolfsburg,1.4,1.1,45.0,7145.0,Kevin Vogt,3-4-3,Felix Zwayer,Match Report,,Hoffenheim
+26,2022-02-25,20:30,Bundesliga,Matchweek 24,Fri,Home,W,2.0,1.0,Stuttgart,2.3,1.9,55.0,18099.0,Benjamin Hübner,3-5-2,Matthias Jöllenbeck,Match Report,,Hoffenheim
+27,2022-03-06,17:30,Bundesliga,Matchweek 25,Sun,Away,W,1.0,0.0,Köln,2.1,1.3,45.0,37500.0,Oliver Baumann,3-5-2,Marco Fritz,Match Report,,Hoffenheim
+28,2022-03-12,15:30,Bundesliga,Matchweek 26,Sat,Home,D,1.0,1.0,Bayern Munich,1.4,3.3,39.0,25600.0,Oliver Baumann,3-4-3,Robert Schröder,Match Report,,Hoffenheim
+29,2022-03-19,15:30,Bundesliga,Matchweek 27,Sat,Away,L,0.0,3.0,Hertha BSC,0.8,0.8,69.0,25000.0,Oliver Baumann,3-5-2,Daniel Schlager,Match Report,,Hoffenheim
+30,2022-04-02,15:30,Bundesliga,Matchweek 28,Sat,Home,L,1.0,2.0,Bochum,2.2,2.1,58.0,15014.0,Oliver Baumann,3-4-1-2,Daniel Siebert,Match Report,,Hoffenheim
+31,2022-04-10,19:30,Bundesliga,Matchweek 29,Sun,Away,L,0.0,3.0,RB Leipzig,0.2,1.5,49.0,35112.0,Oliver Baumann,3-4-1-2,Bastian Dankert,Match Report,,Hoffenheim
+32,2022-04-17,17:30,Bundesliga,Matchweek 30,Sun,Home,D,0.0,0.0,Greuther Fürth,0.9,0.5,58.0,16110.0,Oliver Baumann,3-5-2,Felix Zwayer,Match Report,,Hoffenheim
+33,2022-04-23,15:30,Bundesliga,Matchweek 31,Sat,Away,D,2.0,2.0,Eint Frankfurt,,,51.0,50500.0,Oliver Baumann,3-4-3,Sven Jablonski,Match Report,,Hoffenheim
+34,2022-04-30,18:30,Bundesliga,Matchweek 32,Sat,Home,,,,Freiburg,,,,,,,,Head-to-Head,,Hoffenheim
+35,2022-05-07,15:30,Bundesliga,Matchweek 33,Sat,Home,,,,Leverkusen,,,,,,,,Head-to-Head,,Hoffenheim
+36,2022-05-14,15:30,Bundesliga,Matchweek 34,Sat,Away,,,,M'Gladbach,,,,,,,,Head-to-Head,,Hoffenheim
+1,2021-08-14,18:30,Bundesliga,Matchweek 1,Sat,Away,L,2.0,5.0,Dortmund,1.8,2.5,40.0,25000.0,Makoto Hasebe,3-4-3,Tobias Stieler,Match Report,,Eint Frankfurt
+2,2021-08-21,15:30,Bundesliga,Matchweek 2,Sat,Home,D,0.0,0.0,Augsburg,1.4,0.2,62.0,22000.0,Martin Hinteregger,4-2-3-1,Harm Osmers,Match Report,,Eint Frankfurt
+3,2021-08-28,15:30,Bundesliga,Matchweek 3,Sat,Away,D,1.0,1.0,Arminia,2.1,0.7,65.0,13750.0,Martin Hinteregger,4-2-3-1,Bastian Dankert,Match Report,,Eint Frankfurt
+4,2021-09-12,15:30,Bundesliga,Matchweek 4,Sun,Home,D,1.0,1.0,Stuttgart,1.3,1.4,59.0,25000.0,Martin Hinteregger,4-2-3-1,Matthias Jöllenbeck,Match Report,,Eint Frankfurt
+6,2021-09-19,19:30,Bundesliga,Matchweek 5,Sun,Away,D,1.0,1.0,Wolfsburg,0.3,1.7,39.0,9266.0,Martin Hinteregger,4-2-3-1,Felix Zwayer,Match Report,,Eint Frankfurt
+7,2021-09-25,15:30,Bundesliga,Matchweek 6,Sat,Home,D,1.0,1.0,Köln,1.2,1.0,48.0,24000.0,Martin Hinteregger,4-2-3-1,Martin Petersen,Match Report,,Eint Frankfurt
+9,2021-10-03,17:30,Bundesliga,Matchweek 7,Sun,Away,W,2.0,1.0,Bayern Munich,0.7,2.7,28.0,25000.0,Martin Hinteregger,3-4-3,Florian Badstübner,Match Report,,Eint Frankfurt
+10,2021-10-16,15:30,Bundesliga,Matchweek 8,Sat,Home,L,1.0,2.0,Hertha BSC,1.5,1.8,58.0,32000.0,Makoto Hasebe,3-4-1-2,Deniz Aytekin,Match Report,,Eint Frankfurt
+12,2021-10-24,19:30,Bundesliga,Matchweek 9,Sun,Away,L,0.0,2.0,Bochum,1.6,2.1,61.0,19510.0,Makoto Hasebe,3-4-1-2,Marco Fritz,Match Report,,Eint Frankfurt
+13,2021-10-30,18:30,Bundesliga,Matchweek 10,Sat,Home,D,1.0,1.0,RB Leipzig,0.6,2.8,46.0,31000.0,Kevin Trapp,3-4-3,Daniel Schlager,Match Report,,Eint Frankfurt
+15,2021-11-07,19:30,Bundesliga,Matchweek 11,Sun,Away,W,2.0,1.0,Greuther Fürth,1.5,2.8,46.0,10244.0,Martin Hinteregger,3-4-3,Daniel Siebert,Match Report,,Eint Frankfurt
+16,2021-11-21,15:30,Bundesliga,Matchweek 12,Sun,Away,W,2.0,0.0,Freiburg,1.3,1.7,38.0,32500.0,Makoto Hasebe,3-4-3,Florian Badstübner,Match Report,,Eint Frankfurt
+18,2021-11-28,15:30,Bundesliga,Matchweek 13,Sun,Home,W,2.0,1.0,Union Berlin,1.9,1.3,55.0,24000.0,Makoto Hasebe,3-4-3,Sascha Stegemann,Match Report,,Eint Frankfurt
+19,2021-12-04,15:30,Bundesliga,Matchweek 14,Sat,Away,L,2.0,3.0,Hoffenheim,1.7,0.9,51.0,,Makoto Hasebe,3-4-3,Daniel Schlager,Match Report,,Eint Frankfurt
+21,2021-12-12,17:30,Bundesliga,Matchweek 15,Sun,Home,W,5.0,2.0,Leverkusen,1.6,1.7,44.0,12000.0,Martin Hinteregger,3-4-3,Marco Fritz,Match Report,,Eint Frankfurt
+22,2021-12-15,18:30,Bundesliga,Matchweek 16,Wed,Away,W,3.0,2.0,M'Gladbach,1.8,1.9,43.0,10028.0,Martin Hinteregger,3-4-3,Martin Petersen,Match Report,,Eint Frankfurt
+23,2021-12-18,15:30,Bundesliga,Matchweek 17,Sat,Home,W,1.0,0.0,Mainz 05,2.0,0.8,52.0,15000.0,Sebastian Rode,3-4-3,Felix Brych,Match Report,,Eint Frankfurt
+24,2022-01-08,18:30,Bundesliga,Matchweek 18,Sat,Home,L,2.0,3.0,Dortmund,1.2,2.4,37.0,250.0,Sebastian Rode,3-4-3,Robert Schröder,Match Report,,Eint Frankfurt
+25,2022-01-16,15:30,Bundesliga,Matchweek 19,Sun,Away,D,1.0,1.0,Augsburg,2.2,1.4,51.0,,Sebastian Rode,3-4-3,Sven Jablonski,Match Report,,Eint Frankfurt
+26,2022-01-21,20:30,Bundesliga,Matchweek 20,Fri,Home,L,0.0,2.0,Arminia,1.9,1.5,69.0,1000.0,Sebastian Rode,3-4-3,Tobias Reichel,Match Report,,Eint Frankfurt
+27,2022-02-05,15:30,Bundesliga,Matchweek 21,Sat,Away,W,3.0,2.0,Stuttgart,1.1,1.8,47.0,10000.0,Sebastian Rode,3-5-2,Sascha Stegemann,Match Report,,Eint Frankfurt
+28,2022-02-12,15:30,Bundesliga,Matchweek 22,Sat,Home,L,0.0,2.0,Wolfsburg,1.1,1.6,63.0,10000.0,Martin Hinteregger,3-4-3,Frank Willenborg,Match Report,,Eint Frankfurt
+29,2022-02-19,18:30,Bundesliga,Matchweek 23,Sat,Away,L,0.0,1.0,Köln,0.7,1.3,43.0,10000.0,Sebastian Rode,3-5-2,Christian Dingert,Match Report,,Eint Frankfurt
+30,2022-02-26,18:30,Bundesliga,Matchweek 24,Sat,Home,L,0.0,1.0,Bayern Munich,0.8,2.0,30.0,25000.0,Kevin Trapp,3-4-3,Florian Badstübner,Match Report,,Eint Frankfurt
+31,2022-03-05,15:30,Bundesliga,Matchweek 25,Sat,Away,W,4.0,1.0,Hertha BSC,1.3,0.7,52.0,25000.0,Kevin Trapp,3-4-3,Harm Osmers,Match Report,,Eint Frankfurt
+33,2022-03-13,17:30,Bundesliga,Matchweek 26,Sun,Home,W,2.0,1.0,Bochum,1.9,1.0,53.0,24000.0,Kevin Trapp,3-4-3,Marco Fritz,Match Report,,Eint Frankfurt
+35,2022-03-20,15:30,Bundesliga,Matchweek 27,Sun,Away,D,0.0,0.0,RB Leipzig,0.1,1.2,47.0,43058.0,Sebastian Rode,3-4-3,Christian Dingert,Match Report,,Eint Frankfurt
+36,2022-04-02,15:30,Bundesliga,Matchweek 28,Sat,Home,D,0.0,0.0,Greuther Fürth,1.4,0.4,68.0,50500.0,Makoto Hasebe,3-5-2,Bastian Dankert,Match Report,,Eint Frankfurt
+38,2022-04-10,17:30,Bundesliga,Matchweek 29,Sun,Home,L,1.0,2.0,Freiburg,1.2,0.8,54.0,47000.0,Sebastian Rode,3-4-3,Felix Brych,Match Report,,Eint Frankfurt
+40,2022-04-17,17:30,Bundesliga,Matchweek 30,Sun,Away,L,0.0,2.0,Union Berlin,0.5,1.2,55.0,22000.0,Martin Hinteregger,3-4-3,Frank Willenborg,Match Report,,Eint Frankfurt
+41,2022-04-23,15:30,Bundesliga,Matchweek 31,Sat,Home,D,2.0,2.0,Hoffenheim,,,49.0,50500.0,Sebastian Rode,3-4-3,Sven Jablonski,Match Report,,Eint Frankfurt
+43,2022-05-02,20:30,Bundesliga,Matchweek 32,Mon,Away,,,,Leverkusen,,,,,,,,Head-to-Head,,Eint Frankfurt
+45,2022-05-08,15:30,Bundesliga,Matchweek 33,Sun,Home,,,,M'Gladbach,,,,,,,,Head-to-Head,,Eint Frankfurt
+46,2022-05-14,15:30,Bundesliga,Matchweek 34,Sat,Away,,,,Mainz 05,,,,,,,,Head-to-Head,,Eint Frankfurt
+1,2021-08-15,15:30,Bundesliga,Matchweek 1,Sun,Home,W,1,0,RB Leipzig,1.1,1.1,30.0,10500.0,Moussa Niakhate,3-4-1-2,Daniel Siebert,Match Report,,Mainz 05
+2,2021-08-21,15:30,Bundesliga,Matchweek 2,Sat,Away,L,0,2,Bochum,0.8,0.7,58.0,12548.0,Moussa Niakhate,3-5-2,Patrick Ittrich,Match Report,,Mainz 05
+3,2021-08-28,15:30,Bundesliga,Matchweek 3,Sat,Home,W,3,0,Greuther Fürth,2.6,0.4,48.0,11500.0,Moussa Niakhate,3-5-2,Tobias Reichel,Match Report,,Mainz 05
+4,2021-09-11,15:30,Bundesliga,Matchweek 4,Sat,Away,W,2,0,Hoffenheim,1.1,0.8,37.0,8427.0,Moussa Niakhate,3-5-2,Marco Fritz,Match Report,,Mainz 05
+5,2021-09-18,15:30,Bundesliga,Matchweek 5,Sat,Home,D,0,0,Freiburg,0.8,0.7,47.0,13500.0,Robin Zentner,3-5-2,Benjamin Brand,Match Report,,Mainz 05
+6,2021-09-25,15:30,Bundesliga,Matchweek 6,Sat,Away,L,0,1,Leverkusen,1.0,1.6,34.0,16624.0,Robin Zentner,3-5-2,Bastian Dankert,Match Report,,Mainz 05
+7,2021-10-03,15:30,Bundesliga,Matchweek 7,Sun,Home,L,1,2,Union Berlin,1.1,1.3,53.0,16000.0,Robin Zentner,3-4-3,Tobias Stieler,Match Report,,Mainz 05
+8,2021-10-16,15:30,Bundesliga,Matchweek 8,Sat,Away,L,1,3,Dortmund,0.6,2.3,33.0,63812.0,Moussa Niakhate,3-4-1-2,Daniel Schlager,Match Report,,Mainz 05
+9,2021-10-22,20:30,Bundesliga,Matchweek 9,Fri,Home,W,4,1,Augsburg,3.6,0.8,55.0,19400.0,Moussa Niakhate,3-5-2,Robert Hartmann,Match Report,,Mainz 05
+11,2021-10-30,15:30,Bundesliga,Matchweek 10,Sat,Away,W,2,1,Arminia,2.5,0.7,51.0,19477.0,Robin Zentner,3-5-2,Bastian Dankert,Match Report,,Mainz 05
+12,2021-11-05,20:30,Bundesliga,Matchweek 11,Fri,Home,D,1,1,M'Gladbach,0.9,1.8,48.0,25000.0,Moussa Niakhate,3-5-2,Robert Schröder,Match Report,,Mainz 05
+13,2021-11-21,17:30,Bundesliga,Matchweek 12,Sun,Home,D,1,1,Köln,0.9,1.7,42.0,25500.0,Moussa Niakhate,3-5-2,Deniz Aytekin,Match Report,,Mainz 05
+14,2021-11-26,20:30,Bundesliga,Matchweek 13,Fri,Away,L,1,2,Stuttgart,1.0,0.4,55.0,25000.0,Moussa Niakhate,3-5-2,Matthias Jöllenbeck,Match Report,,Mainz 05
+15,2021-12-04,15:30,Bundesliga,Matchweek 14,Sat,Home,W,3,0,Wolfsburg,1.4,0.7,43.0,10000.0,Moussa Niakhate,3-5-2,Florian Badstübner,Match Report,,Mainz 05
+16,2021-12-11,15:30,Bundesliga,Matchweek 15,Sat,Away,L,1,2,Bayern Munich,0.8,1.9,36.0,,Moussa Niakhate,3-5-2,Benjamin Cortus,Match Report,,Mainz 05
+17,2021-12-14,20:30,Bundesliga,Matchweek 16,Tue,Home,W,4,0,Hertha BSC,2.6,0.5,66.0,10000.0,Moussa Niakhate,3-5-2,Harm Osmers,Match Report,,Mainz 05
+18,2021-12-18,15:30,Bundesliga,Matchweek 17,Sat,Away,L,0,1,Eint Frankfurt,0.8,2.0,48.0,15000.0,Moussa Niakhate,3-5-2,Felix Brych,Match Report,,Mainz 05
+19,2022-01-08,15:30,Bundesliga,Matchweek 18,Sat,Away,L,1,4,RB Leipzig,0.4,3.3,32.0,,Robin Zentner,3-5-2,Deniz Aytekin,Match Report,,Mainz 05
+20,2022-01-15,15:30,Bundesliga,Matchweek 19,Sat,Home,W,1,0,Bochum,1.7,1.5,54.0,1000.0,Moussa Niakhate,3-5-2,Frank Willenborg,Match Report,,Mainz 05
+22,2022-01-22,15:30,Bundesliga,Matchweek 20,Sat,Away,L,1,2,Greuther Fürth,2.0,1.1,57.0,,Moussa Niakhate,3-5-2,Robert Schröder,Match Report,,Mainz 05
+23,2022-02-05,15:30,Bundesliga,Matchweek 21,Sat,Home,W,2,0,Hoffenheim,2.0,1.6,41.0,6800.0,Moussa Niakhate,3-5-2,Christian Dingert,Match Report,,Mainz 05
+24,2022-02-12,15:30,Bundesliga,Matchweek 22,Sat,Away,D,1,1,Freiburg,2.1,1.7,40.0,10000.0,Moussa Niakhate,3-4-3,Deniz Aytekin,Match Report,,Mainz 05
+25,2022-02-18,20:30,Bundesliga,Matchweek 23,Fri,Home,W,3,2,Leverkusen,1.0,1.2,41.0,10000.0,Moussa Niakhate,3-4-3,Benjamin Cortus,Match Report,,Mainz 05
+26,2022-02-26,15:30,Bundesliga,Matchweek 24,Sat,Away,L,1,3,Union Berlin,0.8,0.9,52.0,10000.0,Moussa Niakhate,3-4-3,Bastian Dankert,Match Report,,Mainz 05
+27,2022-03-16,18:30,Bundesliga,Matchweek 25,Wed,Home,L,0,1,Dortmund,0.6,0.8,40.0,25000.0,Moussa Niakhate,3-4-3,Sascha Stegemann,Match Report,,Mainz 05
+28,2022-03-19,15:30,Bundesliga,Matchweek 27,Sat,Home,W,4,0,Arminia,4.2,0.2,56.0,25000.0,Moussa Niakhate,3-4-3,Felix Zwayer,Match Report,,Mainz 05
+29,2022-04-03,17:30,Bundesliga,Matchweek 28,Sun,Away,D,1,1,M'Gladbach,2.3,1.6,48.0,44156.0,Moussa Niakhate,3-4-3,Daniel Schlager,Match Report,,Mainz 05
+30,2022-04-06,18:30,Bundesliga,Matchweek 26,Wed,Away,L,1,2,Augsburg,2.0,2.0,64.0,18122.0,Moussa Niakhate,3-5-2,Matthias Jöllenbeck,Match Report,,Mainz 05
+31,2022-04-09,15:30,Bundesliga,Matchweek 29,Sat,Away,L,2,3,Köln,0.9,2.1,46.0,49800.0,Moussa Niakhate,3-4-3,Martin Petersen,Match Report,,Mainz 05
+32,2022-04-16,15:30,Bundesliga,Matchweek 30,Sat,Home,D,0,0,Stuttgart,0.6,0.6,47.0,30128.0,Moussa Niakhate,3-5-2,Florian Badstübner,Match Report,,Mainz 05
+33,2022-04-22,20:30,Bundesliga,Matchweek 31,Fri,Away,L,0,5,Wolfsburg,0.7,3.4,41.0,19055.0,Moussa Niakhate,3-5-2,Harm Osmers,Match Report,,Mainz 05
+34,2022-04-30,15:30,Bundesliga,Matchweek 32,Sat,Home,,,,Bayern Munich,,,,,,,,Head-to-Head,,Mainz 05
+35,2022-05-07,18:30,Bundesliga,Matchweek 33,Sat,Away,,,,Hertha BSC,,,,,,,,Head-to-Head,,Mainz 05
+36,2022-05-14,15:30,Bundesliga,Matchweek 34,Sat,Home,,,,Eint Frankfurt,,,,,,,,Head-to-Head,,Mainz 05
+1,2021-08-13,20:30,Bundesliga,Matchweek 1,Fri,Home,D,1.0,1.0,Bayern Munich,2.0,2.6,35.0,22925.0,Lars Stindl,4-2-3-1,Marco Fritz,Match Report,,M'Gladbach
+2,2021-08-21,18:30,Bundesliga,Matchweek 2,Sat,Away,L,0.0,4.0,Leverkusen,1.7,2.0,54.0,15105.0,Lars Stindl,4-2-3-1,Deniz Aytekin,Match Report,,M'Gladbach
+3,2021-08-29,15:30,Bundesliga,Matchweek 3,Sun,Away,L,1.0,2.0,Union Berlin,2.2,1.9,73.0,11006.0,Lars Stindl,4-2-3-1,Felix Brych,Match Report,,M'Gladbach
+4,2021-09-12,19:30,Bundesliga,Matchweek 4,Sun,Home,W,3.0,1.0,Arminia,1.9,1.8,64.0,24500.0,Lars Stindl,3-4-3,Sascha Stegemann,Match Report,,M'Gladbach
+5,2021-09-18,15:30,Bundesliga,Matchweek 5,Sat,Away,L,0.0,1.0,Augsburg,0.7,0.4,69.0,12500.0,Lars Stindl,4-2-3-1,Florian Badstübner,Match Report,,M'Gladbach
+6,2021-09-25,18:30,Bundesliga,Matchweek 6,Sat,Home,W,1.0,0.0,Dortmund,1.4,0.4,55.0,25000.0,Lars Stindl,3-4-3,Deniz Aytekin,Match Report,,M'Gladbach
+7,2021-10-02,15:30,Bundesliga,Matchweek 7,Sat,Away,W,3.0,1.0,Wolfsburg,2.8,1.3,46.0,12845.0,Lars Stindl,3-5-2,Frank Willenborg,Match Report,,M'Gladbach
+8,2021-10-16,18:30,Bundesliga,Matchweek 8,Sat,Home,D,1.0,1.0,Stuttgart,2.6,0.5,59.0,41608.0,Lars Stindl,3-4-3,Felix Brych,Match Report,,M'Gladbach
+9,2021-10-23,18:30,Bundesliga,Matchweek 9,Sat,Away,L,0.0,1.0,Hertha BSC,0.7,1.1,57.0,25000.0,Lars Stindl,3-4-1-2,Benjamin Cortus,Match Report,,M'Gladbach
+11,2021-10-31,17:30,Bundesliga,Matchweek 10,Sun,Home,W,2.0,1.0,Bochum,1.8,1.0,65.0,42361.0,Yann Sommer,4-2-3-1,Tobias Reichel,Match Report,,M'Gladbach
+12,2021-11-05,20:30,Bundesliga,Matchweek 11,Fri,Away,D,1.0,1.0,Mainz 05,1.8,0.9,52.0,25000.0,Yann Sommer,3-4-3,Robert Schröder,Match Report,,M'Gladbach
+13,2021-11-20,15:30,Bundesliga,Matchweek 12,Sat,Home,W,4.0,0.0,Greuther Fürth,2.6,0.4,57.0,38621.0,Lars Stindl,3-4-3,Benjamin Brand,Match Report,,M'Gladbach
+14,2021-11-27,15:30,Bundesliga,Matchweek 13,Sat,Away,L,1.0,4.0,Köln,1.1,1.7,51.0,50000.0,Lars Stindl,3-4-3,Robert Schröder,Match Report,,M'Gladbach
+15,2021-12-05,17:30,Bundesliga,Matchweek 14,Sun,Home,L,0.0,6.0,Freiburg,1.1,1.8,64.0,10025.0,Yann Sommer,3-4-1-2,Robert Hartmann,Match Report,,M'Gladbach
+16,2021-12-11,15:30,Bundesliga,Matchweek 15,Sat,Away,L,1.0,4.0,RB Leipzig,1.4,4.4,48.0,,Lars Stindl,4-3-3,Bastian Dankert,Match Report,,M'Gladbach
+17,2021-12-15,18:30,Bundesliga,Matchweek 16,Wed,Home,L,2.0,3.0,Eint Frankfurt,1.9,1.8,57.0,10028.0,Yann Sommer,3-4-3,Martin Petersen,Match Report,,M'Gladbach
+18,2021-12-18,15:30,Bundesliga,Matchweek 17,Sat,Away,D,1.0,1.0,Hoffenheim,1.6,2.3,40.0,750.0,Lars Stindl,4-2-3-1,Sven Jablonski,Match Report,,M'Gladbach
+19,2022-01-07,20:30,Bundesliga,Matchweek 18,Fri,Away,W,2.0,1.0,Bayern Munich,1.1,1.7,39.0,,Lars Stindl,3-5-2,Daniel Siebert,Match Report,,M'Gladbach
+20,2022-01-15,18:30,Bundesliga,Matchweek 19,Sat,Home,L,1.0,2.0,Leverkusen,1.5,4.4,55.0,750.0,Lars Stindl,3-4-3,Sascha Stegemann,Match Report,,M'Gladbach
+22,2022-01-22,15:30,Bundesliga,Matchweek 20,Sat,Home,L,1.0,2.0,Union Berlin,1.0,1.1,59.0,750.0,Yann Sommer,3-4-3,Felix Brych,Match Report,,M'Gladbach
+23,2022-02-05,15:30,Bundesliga,Matchweek 21,Sat,Away,D,1.0,1.0,Arminia,1.5,0.6,61.0,10000.0,Yann Sommer,3-4-3,Benjamin Cortus,Match Report,,M'Gladbach
+24,2022-02-12,15:30,Bundesliga,Matchweek 22,Sat,Home,W,3.0,2.0,Augsburg,2.2,1.2,57.0,10000.0,Yann Sommer,3-4-3,Tobias Welz,Match Report,,M'Gladbach
+25,2022-02-20,17:30,Bundesliga,Matchweek 23,Sun,Away,L,0.0,6.0,Dortmund,0.8,3.5,49.0,10000.0,Yann Sommer,3-4-3,Marco Fritz,Match Report,,M'Gladbach
+26,2022-02-26,15:30,Bundesliga,Matchweek 24,Sat,Home,D,2.0,2.0,Wolfsburg,2.7,1.5,67.0,10000.0,Yann Sommer,3-4-3,Tobias Reichel,Match Report,,M'Gladbach
+27,2022-03-05,18:30,Bundesliga,Matchweek 25,Sat,Away,L,2.0,3.0,Stuttgart,1.2,1.8,42.0,25000.0,Yann Sommer,4-3-3,Christian Dingert,Match Report,,M'Gladbach
+28,2022-03-12,18:30,Bundesliga,Matchweek 26,Sat,Home,W,2.0,0.0,Hertha BSC,1.8,0.5,53.0,30675.0,Yann Sommer,3-4-3,Florian Badstübner,Match Report,,M'Gladbach
+29,2022-03-18,20:30,Bundesliga,Matchweek 27,Fri,Away,W,2.0,0.0,Bochum,0.6,1.4,49.0,,Yann Sommer,3-4-3,Benjamin Cortus,Match Report,Match awarded to M'Gladbach,M'Gladbach
+30,2022-04-03,17:30,Bundesliga,Matchweek 28,Sun,Home,D,1.0,1.0,Mainz 05,1.6,2.3,52.0,44156.0,Lars Stindl,3-4-3,Daniel Schlager,Match Report,,M'Gladbach
+31,2022-04-09,15:30,Bundesliga,Matchweek 29,Sat,Away,W,2.0,0.0,Greuther Fürth,2.8,0.6,50.0,13900.0,Yann Sommer,3-4-3,Tobias Stieler,Match Report,,M'Gladbach
+32,2022-04-16,18:30,Bundesliga,Matchweek 30,Sat,Home,L,1.0,3.0,Köln,2.0,2.3,57.0,54042.0,Yann Sommer,3-4-3,Deniz Aytekin,Match Report,,M'Gladbach
+33,2022-04-23,15:30,Bundesliga,Matchweek 31,Sat,Away,D,3.0,3.0,Freiburg,,,38.0,34700.0,Yann Sommer,5-3-2,Benjamin Brand,Match Report,,M'Gladbach
+34,2022-05-02,20:30,Bundesliga,Matchweek 32,Mon,Home,,,,RB Leipzig,,,,,,,,Head-to-Head,,M'Gladbach
+35,2022-05-08,15:30,Bundesliga,Matchweek 33,Sun,Away,,,,Eint Frankfurt,,,,,,,,Head-to-Head,,M'Gladbach
+36,2022-05-14,15:30,Bundesliga,Matchweek 34,Sat,Home,,,,Hoffenheim,,,,,,,,Head-to-Head,,M'Gladbach
+1,2021-08-14,15:30,Bundesliga,Matchweek 1,Sat,Away,L,0,1,Wolfsburg,0.4,3.0,40.0,8536.0,Anthony Losilla,4-3-3,Frank Willenborg,Match Report,,Bochum
+2,2021-08-21,15:30,Bundesliga,Matchweek 2,Sat,Home,W,2,0,Mainz 05,0.7,0.8,42.0,12548.0,Anthony Losilla,4-2-3-1,Patrick Ittrich,Match Report,,Bochum
+3,2021-08-28,15:30,Bundesliga,Matchweek 3,Sat,Away,L,1,2,Köln,1.0,2.0,29.0,25000.0,Anthony Losilla,4-3-3,Benjamin Cortus,Match Report,,Bochum
+4,2021-09-12,17:30,Bundesliga,Matchweek 4,Sun,Home,L,1,3,Hertha BSC,1.2,0.5,66.0,14000.0,Anthony Losilla,4-2-3-1,Robert Schröder,Match Report,,Bochum
+5,2021-09-18,15:30,Bundesliga,Matchweek 5,Sat,Away,L,0,7,Bayern Munich,1.0,4.5,31.0,25000.0,Anthony Losilla,4-2-3-1,Tobias Welz,Match Report,,Bochum
+6,2021-09-26,15:30,Bundesliga,Matchweek 6,Sun,Home,D,0,0,Stuttgart,0.7,0.2,44.0,15300.0,Anthony Losilla,4-2-3-1,Christian Dingert,Match Report,,Bochum
+7,2021-10-02,18:30,Bundesliga,Matchweek 7,Sat,Away,L,0,3,RB Leipzig,1.3,2.5,41.0,25598.0,Anthony Losilla,4-2-3-1,Robert Hartmann,Match Report,,Bochum
+8,2021-10-16,15:30,Bundesliga,Matchweek 8,Sat,Away,W,1,0,Greuther Fürth,1.2,1.0,43.0,10586.0,Anthony Losilla,4-3-3,Bastian Dankert,Match Report,,Bochum
+9,2021-10-24,19:30,Bundesliga,Matchweek 9,Sun,Home,W,2,0,Eint Frankfurt,2.1,1.6,39.0,19510.0,Anthony Losilla,4-3-3,Marco Fritz,Match Report,,Bochum
+11,2021-10-31,17:30,Bundesliga,Matchweek 10,Sun,Away,L,1,2,M'Gladbach,1.0,1.8,35.0,42361.0,Anthony Losilla,4-3-3,Tobias Reichel,Match Report,,Bochum
+12,2021-11-06,15:30,Bundesliga,Matchweek 11,Sat,Home,W,2,0,Hoffenheim,2.3,0.6,38.0,19600.0,Anthony Losilla,4-3-3,Frank Willenborg,Match Report,,Bochum
+13,2021-11-20,15:30,Bundesliga,Matchweek 12,Sat,Away,L,0,1,Leverkusen,0.8,1.7,44.0,22538.0,Anthony Losilla,4-3-3,Daniel Schlager,Match Report,,Bochum
+14,2021-11-27,15:30,Bundesliga,Matchweek 13,Sat,Home,W,2,1,Freiburg,1.0,2.1,42.0,19700.0,Anthony Losilla,4-3-3,Patrick Ittrich,Match Report,,Bochum
+15,2021-12-04,15:30,Bundesliga,Matchweek 14,Sat,Away,W,3,2,Augsburg,1.2,2.9,48.0,,Anthony Losilla,4-3-3,Deniz Aytekin,Match Report,,Bochum
+16,2021-12-11,15:30,Bundesliga,Matchweek 15,Sat,Home,D,1,1,Dortmund,0.9,2.5,34.0,13799.0,Anthony Losilla,4-1-4-1,Matthias Jöllenbeck,Match Report,,Bochum
+17,2021-12-14,20:30,Bundesliga,Matchweek 16,Tue,Away,L,0,2,Arminia,0.6,0.9,50.0,13750.0,Anthony Losilla,4-1-4-1,Benjamin Brand,Match Report,,Bochum
+18,2021-12-18,15:30,Bundesliga,Matchweek 17,Sat,Home,L,0,1,Union Berlin,0.9,1.0,55.0,13500.0,Anthony Losilla,4-3-3,Tobias Reichel,Match Report,,Bochum
+19,2022-01-09,17:30,Bundesliga,Matchweek 18,Sun,Home,W,1,0,Wolfsburg,0.8,0.4,49.0,,Anthony Losilla,4-3-3,Daniel Schlager,Match Report,,Bochum
+20,2022-01-15,15:30,Bundesliga,Matchweek 19,Sat,Away,L,0,1,Mainz 05,1.5,1.7,46.0,1000.0,Anthony Losilla,4-3-3,Frank Willenborg,Match Report,,Bochum
+22,2022-01-22,18:30,Bundesliga,Matchweek 20,Sat,Home,D,2,2,Köln,1.8,1.0,54.0,750.0,Anthony Losilla,4-3-3,Matthias Jöllenbeck,Match Report,,Bochum
+23,2022-02-04,20:30,Bundesliga,Matchweek 21,Fri,Away,D,1,1,Hertha BSC,1.1,0.5,49.0,3000.0,Manuel Riemann,4-1-4-1,Marco Fritz,Match Report,,Bochum
+24,2022-02-12,15:30,Bundesliga,Matchweek 22,Sat,Home,W,4,2,Bayern Munich,1.3,2.2,36.0,10000.0,Anthony Losilla,4-3-3,Robert Schröder,Match Report,,Bochum
+25,2022-02-19,15:30,Bundesliga,Matchweek 23,Sat,Away,D,1,1,Stuttgart,1.9,1.9,45.0,20059.0,Anthony Losilla,4-3-3,Harm Osmers,Match Report,,Bochum
+26,2022-02-27,15:30,Bundesliga,Matchweek 24,Sun,Home,L,0,1,RB Leipzig,1.0,0.7,52.0,10000.0,Anthony Losilla,4-3-3,Felix Brych,Match Report,,Bochum
+28,2022-03-05,15:30,Bundesliga,Matchweek 25,Sat,Home,W,2,1,Greuther Fürth,1.3,0.8,45.0,19800.0,Anthony Losilla,4-3-3,Daniel Schlager,Match Report,,Bochum
+29,2022-03-13,17:30,Bundesliga,Matchweek 26,Sun,Away,L,1,2,Eint Frankfurt,1.0,1.9,47.0,24000.0,Anthony Losilla,4-1-4-1,Marco Fritz,Match Report,,Bochum
+30,2022-03-18,20:30,Bundesliga,Matchweek 27,Fri,Home,L,0,2,M'Gladbach,1.4,0.6,51.0,,Anthony Losilla,4-3-3,Benjamin Cortus,Match Report,Match awarded to M'Gladbach,Bochum
+31,2022-04-02,15:30,Bundesliga,Matchweek 28,Sat,Away,W,2,1,Hoffenheim,2.1,2.2,42.0,15014.0,Anthony Losilla,4-2-3-1,Daniel Siebert,Match Report,,Bochum
+32,2022-04-10,15:30,Bundesliga,Matchweek 29,Sun,Home,D,0,0,Leverkusen,1.0,1.2,41.0,25000.0,Anthony Losilla,4-2-3-1,Felix Zwayer,Match Report,,Bochum
+33,2022-04-16,15:30,Bundesliga,Matchweek 30,Sat,Away,L,0,3,Freiburg,0.7,1.8,39.0,34000.0,Anthony Losilla,4-3-3,Sascha Stegemann,Match Report,,Bochum
+34,2022-04-24,15:30,Bundesliga,Matchweek 31,Sun,Home,,,,Augsburg,,,,,,,,Head-to-Head,,Bochum
+35,2022-04-30,15:30,Bundesliga,Matchweek 32,Sat,Away,,,,Dortmund,,,,,,,,Head-to-Head,,Bochum
+36,2022-05-06,20:30,Bundesliga,Matchweek 33,Fri,Home,,,,Arminia,,,,,,,,Head-to-Head,,Bochum
+37,2022-05-14,15:30,Bundesliga,Matchweek 34,Sat,Away,,,,Union Berlin,,,,,,,,Head-to-Head,,Bochum
+1,2021-08-14,15:30,Bundesliga,Matchweek 1,Sat,Home,W,1.0,0.0,Bochum,3.0,0.4,60.0,8536.0,Koen Casteels,4-2-3-1,Frank Willenborg,Match Report,,Wolfsburg
+2,2021-08-21,15:30,Bundesliga,Matchweek 2,Sat,Away,W,2.0,1.0,Hertha BSC,1.4,1.3,60.0,18241.0,Koen Casteels,4-4-1-1,Matthias Jöllenbeck,Match Report,,Wolfsburg
+3,2021-08-29,17:30,Bundesliga,Matchweek 3,Sun,Home,W,1.0,0.0,RB Leipzig,1.1,1.4,48.0,12058.0,Koen Casteels,4-2-3-1,Tobias Stieler,Match Report,,Wolfsburg
+4,2021-09-11,15:30,Bundesliga,Matchweek 4,Sat,Away,W,2.0,0.0,Greuther Fürth,1.6,0.5,70.0,9000.0,Koen Casteels,4-2-3-1,Robert Hartmann,Match Report,,Wolfsburg
+6,2021-09-19,19:30,Bundesliga,Matchweek 5,Sun,Home,D,1.0,1.0,Eint Frankfurt,1.7,0.3,61.0,9266.0,Koen Casteels,4-2-3-1,Felix Zwayer,Match Report,,Wolfsburg
+7,2021-09-25,15:30,Bundesliga,Matchweek 6,Sat,Away,L,1.0,3.0,Hoffenheim,0.6,1.7,50.0,8523.0,Koen Casteels,4-2-3-1,Daniel Siebert,Match Report,,Wolfsburg
+9,2021-10-02,15:30,Bundesliga,Matchweek 7,Sat,Home,L,1.0,3.0,M'Gladbach,1.3,2.8,54.0,12845.0,Koen Casteels,4-2-3-1,Frank Willenborg,Match Report,,Wolfsburg
+10,2021-10-16,15:30,Bundesliga,Matchweek 8,Sat,Away,L,0.0,2.0,Union Berlin,1.8,1.2,61.0,11000.0,Koen Casteels,4-2-3-1,Sascha Stegemann,Match Report,,Wolfsburg
+12,2021-10-23,15:30,Bundesliga,Matchweek 9,Sat,Home,L,0.0,2.0,Freiburg,1.8,1.5,56.0,10251.0,Koen Casteels,4-3-3,Tobias Welz,Match Report,,Wolfsburg
+13,2021-10-30,15:30,Bundesliga,Matchweek 10,Sat,Away,W,2.0,0.0,Leverkusen,1.7,1.4,36.0,20132.0,Koen Casteels,3-4-3,Deniz Aytekin,Match Report,,Wolfsburg
+15,2021-11-06,15:30,Bundesliga,Matchweek 11,Sat,Home,W,1.0,0.0,Augsburg,0.8,0.6,62.0,16095.0,Koen Casteels,3-4-3,Marco Fritz,Match Report,,Wolfsburg
+16,2021-11-20,15:30,Bundesliga,Matchweek 12,Sat,Away,D,2.0,2.0,Arminia,1.7,1.5,62.0,19801.0,Koen Casteels,3-4-3,Martin Petersen,Match Report,,Wolfsburg
+18,2021-11-27,15:30,Bundesliga,Matchweek 13,Sat,Home,L,1.0,3.0,Dortmund,1.4,2.2,42.0,13281.0,Maximilian Arnold,3-4-3,Sven Jablonski,Match Report,,Wolfsburg
+19,2021-12-04,15:30,Bundesliga,Matchweek 14,Sat,Away,L,0.0,3.0,Mainz 05,0.7,1.4,57.0,10000.0,Maximilian Arnold,3-4-3,Florian Badstübner,Match Report,,Wolfsburg
+21,2021-12-11,18:30,Bundesliga,Matchweek 15,Sat,Home,L,0.0,2.0,Stuttgart,1.5,1.4,53.0,5000.0,Koen Casteels,4-2-3-1,Sascha Stegemann,Match Report,,Wolfsburg
+22,2021-12-14,20:30,Bundesliga,Matchweek 16,Tue,Home,L,2.0,3.0,Köln,2.5,3.3,40.0,5000.0,Koen Casteels,4-2-3-1,Robert Hartmann,Match Report,,Wolfsburg
+23,2021-12-17,20:30,Bundesliga,Matchweek 17,Fri,Away,L,0.0,4.0,Bayern Munich,1.2,3.2,38.0,,Koen Casteels,3-4-3,Tobias Welz,Match Report,,Wolfsburg
+24,2022-01-09,17:30,Bundesliga,Matchweek 18,Sun,Away,L,0.0,1.0,Bochum,0.4,0.8,51.0,,Koen Casteels,3-4-3,Daniel Schlager,Match Report,,Wolfsburg
+25,2022-01-15,15:30,Bundesliga,Matchweek 19,Sat,Home,D,0.0,0.0,Hertha BSC,1.2,0.2,47.0,500.0,Koen Casteels,3-4-3,Robert Hartmann,Match Report,,Wolfsburg
+26,2022-01-23,15:30,Bundesliga,Matchweek 20,Sun,Away,L,0.0,2.0,RB Leipzig,0.9,1.3,47.0,1000.0,Koen Casteels,3-4-3,Daniel Siebert,Match Report,,Wolfsburg
+27,2022-02-06,17:30,Bundesliga,Matchweek 21,Sun,Home,W,4.0,1.0,Greuther Fürth,2.0,1.1,56.0,500.0,Koen Casteels,3-4-3,Martin Petersen,Match Report,,Wolfsburg
+28,2022-02-12,15:30,Bundesliga,Matchweek 22,Sat,Away,W,2.0,0.0,Eint Frankfurt,1.6,1.1,37.0,10000.0,Koen Casteels,3-4-3,Frank Willenborg,Match Report,,Wolfsburg
+29,2022-02-19,15:30,Bundesliga,Matchweek 23,Sat,Home,L,1.0,2.0,Hoffenheim,1.1,1.4,55.0,7145.0,Koen Casteels,3-4-3,Felix Zwayer,Match Report,,Wolfsburg
+30,2022-02-26,15:30,Bundesliga,Matchweek 24,Sat,Away,D,2.0,2.0,M'Gladbach,1.5,2.7,33.0,10000.0,Koen Casteels,3-4-3,Tobias Reichel,Match Report,,Wolfsburg
+31,2022-03-05,15:30,Bundesliga,Matchweek 25,Sat,Home,W,1.0,0.0,Union Berlin,0.6,1.1,46.0,15703.0,Koen Casteels,4-4-2◆,Patrick Ittrich,Match Report,,Wolfsburg
+32,2022-03-12,15:30,Bundesliga,Matchweek 26,Sat,Away,L,2.0,3.0,Freiburg,1.2,1.9,58.0,25000.0,Maximilian Arnold,3-4-3,Martin Petersen,Match Report,,Wolfsburg
+33,2022-03-20,17:30,Bundesliga,Matchweek 27,Sun,Home,L,0.0,2.0,Leverkusen,1.5,1.2,50.0,16554.0,Maximilian Arnold,3-4-3,Felix Brych,Match Report,,Wolfsburg
+34,2022-04-03,15:30,Bundesliga,Matchweek 28,Sun,Away,L,0.0,3.0,Augsburg,1.4,1.8,60.0,23143.0,Maximilian Arnold,3-4-3,Sascha Stegemann,Match Report,,Wolfsburg
+35,2022-04-09,15:30,Bundesliga,Matchweek 29,Sat,Home,W,4.0,0.0,Arminia,2.1,0.5,53.0,22512.0,Koen Casteels,3-4-3,Benjamin Brand,Match Report,,Wolfsburg
+36,2022-04-16,15:30,Bundesliga,Matchweek 30,Sat,Away,L,1.0,6.0,Dortmund,1.4,2.9,40.0,79200.0,Koen Casteels,3-4-3,Robert Schröder,Match Report,,Wolfsburg
+37,2022-04-22,20:30,Bundesliga,Matchweek 31,Fri,Home,W,5.0,0.0,Mainz 05,3.4,0.7,59.0,19055.0,Koen Casteels,4-3-3,Harm Osmers,Match Report,,Wolfsburg
+38,2022-04-30,15:30,Bundesliga,Matchweek 32,Sat,Away,,,,Stuttgart,,,,,,,,Head-to-Head,,Wolfsburg
+39,2022-05-07,15:30,Bundesliga,Matchweek 33,Sat,Away,,,,Köln,,,,,,,,Head-to-Head,,Wolfsburg
+40,2022-05-14,15:30,Bundesliga,Matchweek 34,Sat,Home,,,,Bayern Munich,,,,,,,,Head-to-Head,,Wolfsburg
+1,2021-08-14,15:30,Bundesliga,Matchweek 1,Sat,Home,L,0,4,Hoffenheim,0.6,3.4,47.0,9124.0,Jeffrey Gouweleeuw,4-2-3-1,Felix Brych,Match Report,,Augsburg
+2,2021-08-21,15:30,Bundesliga,Matchweek 2,Sat,Away,D,0,0,Eint Frankfurt,0.2,1.4,38.0,22000.0,Ohis Felix Uduokhai,4-2-3-1,Harm Osmers,Match Report,,Augsburg
+3,2021-08-28,15:30,Bundesliga,Matchweek 3,Sat,Home,L,1,4,Leverkusen,1.5,2.1,42.0,10582.0,Ohis Felix Uduokhai,4-2-3-1,Benjamin Brand,Match Report,,Augsburg
+4,2021-09-11,15:30,Bundesliga,Matchweek 4,Sat,Away,D,0,0,Union Berlin,1.3,1.3,40.0,10207.0,Jeffrey Gouweleeuw,3-5-2,Martin Petersen,Match Report,,Augsburg
+5,2021-09-18,15:30,Bundesliga,Matchweek 5,Sat,Home,W,1,0,M'Gladbach,0.4,0.7,31.0,12500.0,Jeffrey Gouweleeuw,3-5-2,Florian Badstübner,Match Report,,Augsburg
+6,2021-09-26,17:30,Bundesliga,Matchweek 6,Sun,Away,L,0,3,Freiburg,0.2,3.0,40.0,14400.0,Jeffrey Gouweleeuw,3-5-2,Daniel Schlager,Match Report,,Augsburg
+7,2021-10-02,15:30,Bundesliga,Matchweek 7,Sat,Away,L,1,2,Dortmund,0.8,3.0,30.0,41000.0,Jeffrey Gouweleeuw,3-4-1-2,Tobias Welz,Match Report,,Augsburg
+8,2021-10-17,17:30,Bundesliga,Matchweek 8,Sun,Home,D,1,1,Arminia,0.8,0.4,50.0,17500.0,Jeffrey Gouweleeuw,3-5-2,Robert Schröder,Match Report,,Augsburg
+9,2021-10-22,20:30,Bundesliga,Matchweek 9,Fri,Away,L,1,4,Mainz 05,0.8,3.6,45.0,19400.0,Jeffrey Gouweleeuw,3-4-1-2,Robert Hartmann,Match Report,,Augsburg
+11,2021-10-31,15:30,Bundesliga,Matchweek 10,Sun,Home,W,4,1,Stuttgart,2.0,0.9,33.0,17500.0,Jeffrey Gouweleeuw,4-4-2,Patrick Ittrich,Match Report,,Augsburg
+12,2021-11-06,15:30,Bundesliga,Matchweek 11,Sat,Away,L,0,1,Wolfsburg,0.6,0.8,38.0,16095.0,Jeffrey Gouweleeuw,4-4-1-1,Marco Fritz,Match Report,,Augsburg
+13,2021-11-19,20:30,Bundesliga,Matchweek 12,Fri,Home,W,2,1,Bayern Munich,0.3,1.6,21.0,26000.0,Jeffrey Gouweleeuw,4-4-2,Daniel Siebert,Match Report,,Augsburg
+14,2021-11-27,15:30,Bundesliga,Matchweek 13,Sat,Away,D,1,1,Hertha BSC,1.4,1.4,49.0,14523.0,André Hahn,4-4-2,Frank Willenborg,Match Report,,Augsburg
+15,2021-12-04,15:30,Bundesliga,Matchweek 14,Sat,Home,L,2,3,Bochum,2.9,1.2,52.0,,André Hahn,4-4-2,Deniz Aytekin,Match Report,,Augsburg
+16,2021-12-10,20:30,Bundesliga,Matchweek 15,Fri,Away,W,2,0,Köln,0.7,1.2,37.0,15000.0,Jeffrey Gouweleeuw,4-4-2,Patrick Ittrich,Match Report,,Augsburg
+17,2021-12-15,20:30,Bundesliga,Matchweek 16,Wed,Home,D,1,1,RB Leipzig,1.4,2.4,31.0,,André Hahn,4-4-2,Florian Badstübner,Match Report,,Augsburg
+18,2021-12-18,15:30,Bundesliga,Matchweek 17,Sat,Away,D,0,0,Greuther Fürth,1.2,0.1,51.0,,Jeffrey Gouweleeuw,4-4-2,Sascha Stegemann,Match Report,,Augsburg
+19,2022-01-08,15:30,Bundesliga,Matchweek 18,Sat,Away,L,1,3,Hoffenheim,0.7,1.8,43.0,500.0,Jeffrey Gouweleeuw,4-4-2,Benjamin Cortus,Match Report,,Augsburg
+20,2022-01-16,15:30,Bundesliga,Matchweek 19,Sun,Home,D,1,1,Eint Frankfurt,1.4,2.2,49.0,,Jeffrey Gouweleeuw,4-4-2,Sven Jablonski,Match Report,,Augsburg
+21,2022-01-22,15:30,Bundesliga,Matchweek 20,Sat,Away,L,1,5,Leverkusen,1.4,3.2,34.0,750.0,Jeffrey Gouweleeuw,4-4-2,Daniel Schlager,Match Report,,Augsburg
+22,2022-02-05,15:30,Bundesliga,Matchweek 21,Sat,Home,W,2,0,Union Berlin,2.0,1.6,47.0,7600.0,Jeffrey Gouweleeuw,4-4-2,Harm Osmers,Match Report,,Augsburg
+23,2022-02-12,15:30,Bundesliga,Matchweek 22,Sat,Away,L,2,3,M'Gladbach,1.2,2.2,43.0,10000.0,Jeffrey Gouweleeuw,4-4-2,Tobias Welz,Match Report,,Augsburg
+24,2022-02-19,15:30,Bundesliga,Matchweek 23,Sat,Home,L,1,2,Freiburg,0.8,1.6,54.0,15000.0,Jeffrey Gouweleeuw,4-4-2,Daniel Siebert,Match Report,,Augsburg
+25,2022-02-27,17:30,Bundesliga,Matchweek 24,Sun,Home,D,1,1,Dortmund,0.9,0.5,37.0,15330.0,Jeffrey Gouweleeuw,3-4-1-2,Deniz Aytekin,Match Report,,Augsburg
+26,2022-03-04,20:30,Bundesliga,Matchweek 25,Fri,Away,W,1,0,Arminia,0.4,0.2,50.0,19460.0,Jeffrey Gouweleeuw,3-4-3,Felix Brych,Match Report,,Augsburg
+27,2022-03-19,15:30,Bundesliga,Matchweek 27,Sat,Away,L,2,3,Stuttgart,0.9,2.7,36.0,55785.0,Jeffrey Gouweleeuw,3-4-3,Patrick Ittrich,Match Report,,Augsburg
+28,2022-04-03,15:30,Bundesliga,Matchweek 28,Sun,Home,W,3,0,Wolfsburg,1.8,1.4,40.0,23143.0,Jeffrey Gouweleeuw,3-4-3,Sascha Stegemann,Match Report,,Augsburg
+29,2022-04-06,18:30,Bundesliga,Matchweek 26,Wed,Home,W,2,1,Mainz 05,2.0,2.0,36.0,18122.0,Jeffrey Gouweleeuw,3-4-3,Matthias Jöllenbeck,Match Report,,Augsburg
+30,2022-04-09,15:30,Bundesliga,Matchweek 29,Sat,Away,L,0,1,Bayern Munich,0.3,1.8,33.0,75000.0,Jeffrey Gouweleeuw,4-4-2,Patrick Ittrich,Match Report,,Augsburg
+31,2022-04-16,15:30,Bundesliga,Matchweek 30,Sat,Home,L,0,1,Hertha BSC,1.3,1.0,59.0,28533.0,Jeffrey Gouweleeuw,4-4-2,Marco Fritz,Match Report,,Augsburg
+32,2022-04-24,15:30,Bundesliga,Matchweek 31,Sun,Away,,,,Bochum,,,,,,,,Head-to-Head,,Augsburg
+33,2022-04-30,15:30,Bundesliga,Matchweek 32,Sat,Home,,,,Köln,,,,,,,,Head-to-Head,,Augsburg
+34,2022-05-08,19:30,Bundesliga,Matchweek 33,Sun,Away,,,,RB Leipzig,,,,,,,,Head-to-Head,,Augsburg
+35,2022-05-14,15:30,Bundesliga,Matchweek 34,Sat,Home,,,,Greuther Fürth,,,,,,,,Head-to-Head,,Augsburg
+1,2021-08-15,17:30,Bundesliga,Matchweek 1,Sun,Away,L,1.0,3.0,Köln,1.9,1.7,40.0,16500.0,Niklas Stark,4-3-3,Robert Hartmann,Match Report,,Hertha BSC
+2,2021-08-21,15:30,Bundesliga,Matchweek 2,Sat,Home,L,1.0,2.0,Wolfsburg,1.3,1.4,40.0,18241.0,Dedryck Boyata,4-2-3-1,Matthias Jöllenbeck,Match Report,,Hertha BSC
+3,2021-08-28,18:30,Bundesliga,Matchweek 3,Sat,Away,L,0.0,5.0,Bayern Munich,0.4,3.0,38.0,25000.0,Dedryck Boyata,4-2-3-1,Sven Jablonski,Match Report,,Hertha BSC
+4,2021-09-12,17:30,Bundesliga,Matchweek 4,Sun,Away,W,3.0,1.0,Bochum,0.5,1.2,34.0,14000.0,Dedryck Boyata,3-4-3,Robert Schröder,Match Report,,Hertha BSC
+5,2021-09-17,20:30,Bundesliga,Matchweek 5,Fri,Home,W,2.0,1.0,Greuther Fürth,1.1,1.3,57.0,21372.0,Dedryck Boyata,3-4-3,Tobias Stieler,Match Report,,Hertha BSC
+6,2021-09-25,15:30,Bundesliga,Matchweek 6,Sat,Away,L,0.0,6.0,RB Leipzig,0.3,3.9,39.0,23500.0,Niklas Stark,3-4-3,Sascha Stegemann,Match Report,,Hertha BSC
+7,2021-10-02,15:30,Bundesliga,Matchweek 7,Sat,Home,L,1.0,2.0,Freiburg,1.0,1.0,45.0,18376.0,Dedryck Boyata,3-4-3,Patrick Ittrich,Match Report,,Hertha BSC
+8,2021-10-16,15:30,Bundesliga,Matchweek 8,Sat,Away,W,2.0,1.0,Eint Frankfurt,1.8,1.5,42.0,32000.0,Dedryck Boyata,4-2-3-1,Deniz Aytekin,Match Report,,Hertha BSC
+9,2021-10-23,18:30,Bundesliga,Matchweek 9,Sat,Home,W,1.0,0.0,M'Gladbach,1.1,0.7,43.0,25000.0,Dedryck Boyata,4-2-3-1,Benjamin Cortus,Match Report,,Hertha BSC
+11,2021-10-29,20:30,Bundesliga,Matchweek 10,Fri,Away,L,0.0,2.0,Hoffenheim,0.4,1.0,46.0,8127.0,Dedryck Boyata,4-2-3-1,Sven Jablonski,Match Report,,Hertha BSC
+12,2021-11-07,15:30,Bundesliga,Matchweek 11,Sun,Home,D,1.0,1.0,Leverkusen,0.9,1.0,47.0,22187.0,Niklas Stark,4-2-3-1,Robert Hartmann,Match Report,,Hertha BSC
+13,2021-11-20,18:30,Bundesliga,Matchweek 12,Sat,Away,L,0.0,2.0,Union Berlin,0.5,2.0,57.0,22012.0,Niklas Stark,4-2-3-1,Felix Brych,Match Report,,Hertha BSC
+14,2021-11-27,15:30,Bundesliga,Matchweek 13,Sat,Home,D,1.0,1.0,Augsburg,1.4,1.4,51.0,14523.0,Niklas Stark,3-4-3,Frank Willenborg,Match Report,,Hertha BSC
+15,2021-12-05,15:30,Bundesliga,Matchweek 14,Sun,Away,D,2.0,2.0,Stuttgart,1.1,1.2,45.0,395.0,Dedryck Boyata,4-4-2,Benjamin Brand,Match Report,,Hertha BSC
+16,2021-12-11,15:30,Bundesliga,Matchweek 15,Sat,Home,W,2.0,0.0,Arminia,2.0,0.4,60.0,5000.0,Dedryck Boyata,4-4-2,Tobias Welz,Match Report,,Hertha BSC
+17,2021-12-14,20:30,Bundesliga,Matchweek 16,Tue,Away,L,0.0,4.0,Mainz 05,0.5,2.6,34.0,10000.0,Dedryck Boyata,4-4-2,Harm Osmers,Match Report,,Hertha BSC
+18,2021-12-18,18:30,Bundesliga,Matchweek 17,Sat,Home,W,3.0,2.0,Dortmund,1.6,1.2,40.0,5000.0,Niklas Stark,4-4-2,Marco Fritz,Match Report,,Hertha BSC
+19,2022-01-09,15:30,Bundesliga,Matchweek 18,Sun,Home,L,1.0,3.0,Köln,1.0,1.7,53.0,3000.0,Niklas Stark,4-2-2-2,Tobias Stieler,Match Report,,Hertha BSC
+20,2022-01-15,15:30,Bundesliga,Matchweek 19,Sat,Away,D,0.0,0.0,Wolfsburg,0.2,1.2,53.0,500.0,Niklas Stark,4-4-2,Robert Hartmann,Match Report,,Hertha BSC
+22,2022-01-23,17:30,Bundesliga,Matchweek 20,Sun,Home,L,1.0,4.0,Bayern Munich,0.9,3.9,30.0,3000.0,Dedryck Boyata,3-5-2,Bastian Dankert,Match Report,,Hertha BSC
+23,2022-02-04,20:30,Bundesliga,Matchweek 21,Fri,Home,D,1.0,1.0,Bochum,0.5,1.1,51.0,3000.0,Niklas Stark,4-4-2,Marco Fritz,Match Report,,Hertha BSC
+24,2022-02-12,15:30,Bundesliga,Matchweek 22,Sat,Away,L,1.0,2.0,Greuther Fürth,2.3,2.5,60.0,9000.0,Niklas Stark,4-4-2,Daniel Schlager,Match Report,,Hertha BSC
+25,2022-02-20,19:30,Bundesliga,Matchweek 23,Sun,Home,L,1.0,6.0,RB Leipzig,0.7,3.1,36.0,10000.0,Peter Pekarík,4-3-3,Patrick Ittrich,Match Report,,Hertha BSC
+26,2022-02-26,15:30,Bundesliga,Matchweek 24,Sat,Away,L,0.0,3.0,Freiburg,1.9,2.8,42.0,25000.0,Dedryck Boyata,4-3-3,Sven Jablonski,Match Report,,Hertha BSC
+27,2022-03-05,15:30,Bundesliga,Matchweek 25,Sat,Home,L,1.0,4.0,Eint Frankfurt,0.7,1.3,48.0,25000.0,Dedryck Boyata,4-4-2,Harm Osmers,Match Report,,Hertha BSC
+28,2022-03-12,18:30,Bundesliga,Matchweek 26,Sat,Away,L,0.0,2.0,M'Gladbach,0.5,1.8,47.0,30675.0,Niklas Stark,3-5-2,Florian Badstübner,Match Report,,Hertha BSC
+29,2022-03-19,15:30,Bundesliga,Matchweek 27,Sat,Home,W,3.0,0.0,Hoffenheim,0.8,0.8,31.0,25000.0,Dedryck Boyata,4-1-4-1,Daniel Schlager,Match Report,,Hertha BSC
+30,2022-04-02,15:30,Bundesliga,Matchweek 28,Sat,Away,L,1.0,2.0,Leverkusen,0.8,2.1,32.0,23557.0,Dedryck Boyata,4-1-4-1,Matthias Jöllenbeck,Match Report,,Hertha BSC
+31,2022-04-09,18:30,Bundesliga,Matchweek 29,Sat,Home,L,1.0,4.0,Union Berlin,0.8,2.3,51.0,74667.0,Dedryck Boyata,4-1-4-1,Sven Jablonski,Match Report,,Hertha BSC
+32,2022-04-16,15:30,Bundesliga,Matchweek 30,Sat,Away,W,1.0,0.0,Augsburg,1.0,1.3,41.0,28533.0,Dedryck Boyata,4-4-2,Marco Fritz,Match Report,,Hertha BSC
+33,2022-04-24,17:30,Bundesliga,Matchweek 31,Sun,Home,,,,Stuttgart,,,,,,,,Head-to-Head,,Hertha BSC
+34,2022-04-30,15:30,Bundesliga,Matchweek 32,Sat,Away,,,,Arminia,,,,,,,,Head-to-Head,,Hertha BSC
+35,2022-05-07,18:30,Bundesliga,Matchweek 33,Sat,Home,,,,Mainz 05,,,,,,,,Head-to-Head,,Hertha BSC
+36,2022-05-14,15:30,Bundesliga,Matchweek 34,Sat,Away,,,,Dortmund,,,,,,,,Head-to-Head,,Hertha BSC
+1,2021-08-14,15:30,Bundesliga,Matchweek 1,Sat,Home,W,5.0,1.0,Greuther Fürth,4.0,0.8,67.0,18109.0,Wataru Endo,3-4-3,Felix Zwayer,Match Report,,Stuttgart
+2,2021-08-20,20:30,Bundesliga,Matchweek 2,Fri,Away,L,0.0,4.0,RB Leipzig,1.1,3.5,48.0,23100.0,Wataru Endo,3-4-3,Florian Badstübner,Match Report,,Stuttgart
+3,2021-08-28,15:30,Bundesliga,Matchweek 3,Sat,Home,L,2.0,3.0,Freiburg,1.5,1.2,63.0,25000.0,Wataru Endo,3-4-3,Frank Willenborg,Match Report,,Stuttgart
+4,2021-09-12,15:30,Bundesliga,Matchweek 4,Sun,Away,D,1.0,1.0,Eint Frankfurt,1.4,1.3,41.0,25000.0,Wataru Endo,3-4-3,Matthias Jöllenbeck,Match Report,,Stuttgart
+5,2021-09-19,15:30,Bundesliga,Matchweek 5,Sun,Home,L,1.0,3.0,Leverkusen,1.1,1.5,64.0,23450.0,Wataru Endo,3-4-1-2,Benjamin Cortus,Match Report,,Stuttgart
+6,2021-09-26,15:30,Bundesliga,Matchweek 6,Sun,Away,D,0.0,0.0,Bochum,0.2,0.7,56.0,15300.0,Wataru Endo,4-1-4-1,Christian Dingert,Match Report,,Stuttgart
+7,2021-10-02,15:30,Bundesliga,Matchweek 7,Sat,Home,W,3.0,1.0,Hoffenheim,0.8,1.3,42.0,24211.0,Wataru Endo,3-5-2,Harm Osmers,Match Report,,Stuttgart
+8,2021-10-16,18:30,Bundesliga,Matchweek 8,Sat,Away,D,1.0,1.0,M'Gladbach,0.5,2.6,41.0,41608.0,Wataru Endo,3-5-2,Felix Brych,Match Report,,Stuttgart
+9,2021-10-24,17:30,Bundesliga,Matchweek 9,Sun,Home,D,1.0,1.0,Union Berlin,0.5,1.2,56.0,32595.0,Wataru Endo,3-5-2,Florian Badstübner,Match Report,,Stuttgart
+11,2021-10-31,15:30,Bundesliga,Matchweek 10,Sun,Away,L,1.0,4.0,Augsburg,0.9,2.0,67.0,17500.0,Wataru Endo,3-5-2,Patrick Ittrich,Match Report,,Stuttgart
+12,2021-11-06,15:30,Bundesliga,Matchweek 11,Sat,Home,L,0.0,1.0,Arminia,0.9,1.7,66.0,33550.0,Wataru Endo,3-4-1-2,Christian Dingert,Match Report,,Stuttgart
+13,2021-11-20,15:30,Bundesliga,Matchweek 12,Sat,Away,L,1.0,2.0,Dortmund,1.4,1.7,36.0,57900.0,Wataru Endo,3-5-2,Harm Osmers,Match Report,,Stuttgart
+14,2021-11-26,20:30,Bundesliga,Matchweek 13,Fri,Home,W,2.0,1.0,Mainz 05,0.4,1.0,45.0,25000.0,Wataru Endo,3-4-3,Matthias Jöllenbeck,Match Report,,Stuttgart
+15,2021-12-05,15:30,Bundesliga,Matchweek 14,Sun,Home,D,2.0,2.0,Hertha BSC,1.2,1.1,55.0,395.0,Wataru Endo,3-5-2,Benjamin Brand,Match Report,,Stuttgart
+16,2021-12-11,18:30,Bundesliga,Matchweek 15,Sat,Away,W,2.0,0.0,Wolfsburg,1.4,1.5,47.0,5000.0,Wataru Endo,3-5-2,Sascha Stegemann,Match Report,,Stuttgart
+17,2021-12-14,18:30,Bundesliga,Matchweek 16,Tue,Home,L,0.0,5.0,Bayern Munich,0.9,3.3,43.0,750.0,Wataru Endo,3-5-2,Robert Schröder,Match Report,,Stuttgart
+18,2021-12-19,17:30,Bundesliga,Matchweek 17,Sun,Away,L,0.0,1.0,Köln,0.4,1.1,50.0,15000.0,Wataru Endo,3-4-3,Bastian Dankert,Match Report,,Stuttgart
+19,2022-01-08,15:30,Bundesliga,Matchweek 18,Sat,Away,D,0.0,0.0,Greuther Fürth,1.4,0.8,61.0,,Wataru Endo,3-4-3,Felix Brych,Match Report,,Stuttgart
+20,2022-01-15,15:30,Bundesliga,Matchweek 19,Sat,Home,L,0.0,2.0,RB Leipzig,1.1,1.3,52.0,500.0,Wataru Endo,3-4-3,Daniel Schlager,Match Report,,Stuttgart
+21,2022-01-22,15:30,Bundesliga,Matchweek 20,Sat,Away,L,0.0,2.0,Freiburg,0.5,1.6,49.0,500.0,Wataru Endo,3-4-3,Tobias Stieler,Match Report,,Stuttgart
+22,2022-02-05,15:30,Bundesliga,Matchweek 21,Sat,Home,L,2.0,3.0,Eint Frankfurt,1.8,1.1,53.0,10000.0,Wataru Endo,4-4-2,Sascha Stegemann,Match Report,,Stuttgart
+23,2022-02-12,18:30,Bundesliga,Matchweek 22,Sat,Away,L,2.0,4.0,Leverkusen,1.2,2.5,32.0,10000.0,Wataru Endo,4-5-1,Felix Brych,Match Report,,Stuttgart
+24,2022-02-19,15:30,Bundesliga,Matchweek 23,Sat,Home,D,1.0,1.0,Bochum,1.9,1.9,55.0,20059.0,Wataru Endo,4-3-3,Harm Osmers,Match Report,,Stuttgart
+25,2022-02-25,20:30,Bundesliga,Matchweek 24,Fri,Away,L,1.0,2.0,Hoffenheim,1.9,2.3,45.0,18099.0,Wataru Endo,4-5-1,Matthias Jöllenbeck,Match Report,,Stuttgart
+26,2022-03-05,18:30,Bundesliga,Matchweek 25,Sat,Home,W,3.0,2.0,M'Gladbach,1.8,1.2,58.0,25000.0,Wataru Endo,4-3-3,Christian Dingert,Match Report,,Stuttgart
+27,2022-03-12,15:30,Bundesliga,Matchweek 26,Sat,Away,D,1.0,1.0,Union Berlin,1.2,1.2,56.0,16509.0,Wataru Endo,4-3-3,Robert Hartmann,Match Report,,Stuttgart
+28,2022-03-19,15:30,Bundesliga,Matchweek 27,Sat,Home,W,3.0,2.0,Augsburg,2.7,0.9,64.0,55785.0,Wataru Endo,4-3-3,Patrick Ittrich,Match Report,,Stuttgart
+29,2022-04-02,15:30,Bundesliga,Matchweek 28,Sat,Away,D,1.0,1.0,Arminia,2.3,0.8,47.0,26011.0,Hiroki Ito,4-3-3,Patrick Ittrich,Match Report,,Stuttgart
+30,2022-04-08,20:30,Bundesliga,Matchweek 29,Fri,Home,L,0.0,2.0,Dortmund,1.2,1.8,41.0,58248.0,Wataru Endo,4-3-3,Harm Osmers,Match Report,,Stuttgart
+31,2022-04-16,15:30,Bundesliga,Matchweek 30,Sat,Away,D,0.0,0.0,Mainz 05,0.6,0.6,53.0,30128.0,Waldemar Anton,4-3-3,Florian Badstübner,Match Report,,Stuttgart
+32,2022-04-24,17:30,Bundesliga,Matchweek 31,Sun,Away,,,,Hertha BSC,,,,,,,,Head-to-Head,,Stuttgart
+33,2022-04-30,15:30,Bundesliga,Matchweek 32,Sat,Home,,,,Wolfsburg,,,,,,,,Head-to-Head,,Stuttgart
+34,2022-05-08,17:30,Bundesliga,Matchweek 33,Sun,Away,,,,Bayern Munich,,,,,,,,Head-to-Head,,Stuttgart
+35,2022-05-14,15:30,Bundesliga,Matchweek 34,Sat,Home,,,,Köln,,,,,,,,Head-to-Head,,Stuttgart
+1,2021-08-14,15:30,Bundesliga,Matchweek 1,Sat,Home,D,0.0,0.0,Freiburg,0.9,1.4,45.0,13750.0,Manuel Prietl,4-4-2◆,Sven Jablonski,Match Report,,Arminia
+2,2021-08-21,15:30,Bundesliga,Matchweek 2,Sat,Away,D,1.0,1.0,Greuther Fürth,0.6,2.3,35.0,5890.0,Manuel Prietl,4-4-2◆,Daniel Schlager,Match Report,,Arminia
+3,2021-08-28,15:30,Bundesliga,Matchweek 3,Sat,Home,D,1.0,1.0,Eint Frankfurt,0.7,2.1,35.0,13750.0,Manuel Prietl,4-4-2,Bastian Dankert,Match Report,,Arminia
+4,2021-09-12,19:30,Bundesliga,Matchweek 4,Sun,Away,L,1.0,3.0,M'Gladbach,1.8,1.9,36.0,24500.0,Manuel Prietl,4-3-3,Sascha Stegemann,Match Report,,Arminia
+5,2021-09-18,15:30,Bundesliga,Matchweek 5,Sat,Home,D,0.0,0.0,Hoffenheim,1.1,1.5,43.0,13750.0,Manuel Prietl,4-4-2,Patrick Ittrich,Match Report,,Arminia
+6,2021-09-25,15:30,Bundesliga,Matchweek 6,Sat,Away,L,0.0,1.0,Union Berlin,0.6,1.2,45.0,11000.0,Manuel Prietl,4-4-2,Marco Fritz,Match Report,,Arminia
+7,2021-10-03,19:30,Bundesliga,Matchweek 7,Sun,Home,L,0.0,4.0,Leverkusen,0.4,3.0,33.0,16250.0,Manuel Prietl,4-4-2,Felix Zwayer,Match Report,,Arminia
+8,2021-10-17,17:30,Bundesliga,Matchweek 8,Sun,Away,D,1.0,1.0,Augsburg,0.4,0.8,50.0,17500.0,Manuel Prietl,4-4-2◆,Robert Schröder,Match Report,,Arminia
+9,2021-10-23,15:30,Bundesliga,Matchweek 9,Sat,Home,L,1.0,3.0,Dortmund,1.7,2.4,31.0,25000.0,Manuel Prietl,3-4-1-2,Benjamin Brand,Match Report,,Arminia
+11,2021-10-30,15:30,Bundesliga,Matchweek 10,Sat,Home,L,1.0,2.0,Mainz 05,0.7,2.5,49.0,19477.0,Manuel Prietl,3-5-2,Bastian Dankert,Match Report,,Arminia
+12,2021-11-06,15:30,Bundesliga,Matchweek 11,Sat,Away,W,1.0,0.0,Stuttgart,1.7,0.9,34.0,33550.0,Manuel Prietl,4-2-3-1,Christian Dingert,Match Report,,Arminia
+13,2021-11-20,15:30,Bundesliga,Matchweek 12,Sat,Home,D,2.0,2.0,Wolfsburg,1.5,1.7,38.0,19801.0,Manuel Prietl,4-2-3-1,Martin Petersen,Match Report,,Arminia
+14,2021-11-27,18:30,Bundesliga,Matchweek 13,Sat,Away,L,0.0,1.0,Bayern Munich,0.5,2.3,27.0,12000.0,Manuel Prietl,4-3-3,Marco Fritz,Match Report,,Arminia
+15,2021-12-04,15:30,Bundesliga,Matchweek 14,Sat,Home,D,1.0,1.0,Köln,1.5,1.1,43.0,8231.0,Manuel Prietl,4-2-3-1,Felix Brych,Match Report,,Arminia
+16,2021-12-11,15:30,Bundesliga,Matchweek 15,Sat,Away,L,0.0,2.0,Hertha BSC,0.4,2.0,40.0,5000.0,Manuel Prietl,4-2-3-1,Tobias Welz,Match Report,,Arminia
+17,2021-12-14,20:30,Bundesliga,Matchweek 16,Tue,Home,W,2.0,0.0,Bochum,0.9,0.6,50.0,13750.0,Manuel Prietl,4-4-2◆,Benjamin Brand,Match Report,,Arminia
+18,2021-12-18,15:30,Bundesliga,Matchweek 17,Sat,Away,W,2.0,0.0,RB Leipzig,0.6,2.0,24.0,,Cédric Brunner,4-2-3-1,Frank Willenborg,Match Report,,Arminia
+19,2022-01-08,15:30,Bundesliga,Matchweek 18,Sat,Away,D,2.0,2.0,Freiburg,0.9,2.0,50.0,,Cédric Brunner,4-3-3,Harm Osmers,Match Report,,Arminia
+20,2022-01-16,17:30,Bundesliga,Matchweek 19,Sun,Home,D,2.0,2.0,Greuther Fürth,0.8,0.4,45.0,750.0,Cédric Brunner,4-2-3-1,Christian Dingert,Match Report,,Arminia
+21,2022-01-21,20:30,Bundesliga,Matchweek 20,Fri,Away,W,2.0,0.0,Eint Frankfurt,1.5,1.9,31.0,1000.0,Stefan Ortega,4-1-4-1,Tobias Reichel,Match Report,,Arminia
+22,2022-02-05,15:30,Bundesliga,Matchweek 21,Sat,Home,D,1.0,1.0,M'Gladbach,0.6,1.5,39.0,10000.0,Stefan Ortega,4-2-3-1,Benjamin Cortus,Match Report,,Arminia
+23,2022-02-13,17:30,Bundesliga,Matchweek 22,Sun,Away,L,0.0,2.0,Hoffenheim,0.8,2.3,48.0,10000.0,Stefan Ortega,4-1-4-1,Robert Hartmann,Match Report,,Arminia
+24,2022-02-19,15:30,Bundesliga,Matchweek 23,Sat,Home,W,1.0,0.0,Union Berlin,1.1,1.0,42.0,10000.0,Stefan Ortega,4-2-3-1,Daniel Schlager,Match Report,,Arminia
+25,2022-02-26,15:30,Bundesliga,Matchweek 24,Sat,Away,L,0.0,3.0,Leverkusen,0.4,2.6,29.0,10000.0,Stefan Ortega,4-2-3-1,Martin Petersen,Match Report,,Arminia
+26,2022-03-04,20:30,Bundesliga,Matchweek 25,Fri,Home,L,0.0,1.0,Augsburg,0.2,0.4,50.0,19460.0,Fabian Klos,4-2-3-1,Felix Brych,Match Report,,Arminia
+27,2022-03-13,17:30,Bundesliga,Matchweek 26,Sun,Away,L,0.0,1.0,Dortmund,0.6,2.0,42.0,33000.0,Stefan Ortega,4-2-3-1,Bastian Dankert,Match Report,,Arminia
+28,2022-03-19,15:30,Bundesliga,Matchweek 27,Sat,Away,L,0.0,4.0,Mainz 05,0.2,4.2,44.0,25000.0,Stefan Ortega,4-3-3,Felix Zwayer,Match Report,,Arminia
+29,2022-04-02,15:30,Bundesliga,Matchweek 28,Sat,Home,D,1.0,1.0,Stuttgart,0.8,2.3,53.0,26011.0,Stefan Ortega,4-2-3-1,Patrick Ittrich,Match Report,,Arminia
+30,2022-04-09,15:30,Bundesliga,Matchweek 29,Sat,Away,L,0.0,4.0,Wolfsburg,0.5,2.1,47.0,22512.0,Manuel Prietl,4-2-3-1,Benjamin Brand,Match Report,,Arminia
+31,2022-04-17,15:30,Bundesliga,Matchweek 30,Sun,Home,L,0.0,3.0,Bayern Munich,0.7,2.2,26.0,26419.0,Manuel Prietl,4-2-3-1,Matthias Jöllenbeck,Match Report,,Arminia
+32,2022-04-23,15:30,Bundesliga,Matchweek 31,Sat,Away,L,1.0,3.0,Köln,,,45.0,50000.0,Manuel Prietl,4-4-2,Tobias Stieler,Match Report,,Arminia
+33,2022-04-30,15:30,Bundesliga,Matchweek 32,Sat,Home,,,,Hertha BSC,,,,,,,,Head-to-Head,,Arminia
+34,2022-05-06,20:30,Bundesliga,Matchweek 33,Fri,Away,,,,Bochum,,,,,,,,Head-to-Head,,Arminia
+35,2022-05-14,15:30,Bundesliga,Matchweek 34,Sat,Home,,,,RB Leipzig,,,,,,,,Head-to-Head,,Arminia
+1,2021-08-14,15:30,Bundesliga,Matchweek 1,Sat,Away,L,1,5,Stuttgart,0.8,4.0,33.0,18109.0,Branimir Hrgota,3-5-2,Felix Zwayer,Match Report,,Greuther Fürth
+2,2021-08-21,15:30,Bundesliga,Matchweek 2,Sat,Home,D,1,1,Arminia,2.3,0.6,65.0,5890.0,Branimir Hrgota,4-4-2◆,Daniel Schlager,Match Report,,Greuther Fürth
+3,2021-08-28,15:30,Bundesliga,Matchweek 3,Sat,Away,L,0,3,Mainz 05,0.4,2.6,52.0,11500.0,Branimir Hrgota,4-4-2◆,Tobias Reichel,Match Report,,Greuther Fürth
+4,2021-09-11,15:30,Bundesliga,Matchweek 4,Sat,Home,L,0,2,Wolfsburg,0.5,1.6,30.0,9000.0,Branimir Hrgota,4-4-2,Robert Hartmann,Match Report,,Greuther Fürth
+5,2021-09-17,20:30,Bundesliga,Matchweek 5,Fri,Away,L,1,2,Hertha BSC,1.3,1.1,43.0,21372.0,Branimir Hrgota,4-2-2-2,Tobias Stieler,Match Report,,Greuther Fürth
+6,2021-09-24,20:30,Bundesliga,Matchweek 6,Fri,Home,L,1,3,Bayern Munich,1.0,0.9,33.0,11740.0,Branimir Hrgota,4-3-3,Robert Schröder,Match Report,,Greuther Fürth
+7,2021-10-01,20:30,Bundesliga,Matchweek 7,Fri,Away,L,1,3,Köln,1.2,2.7,34.0,40000.0,Branimir Hrgota,4-4-2◆,Matthias Jöllenbeck,Match Report,,Greuther Fürth
+8,2021-10-16,15:30,Bundesliga,Matchweek 8,Sat,Home,L,0,1,Bochum,1.0,1.2,57.0,10586.0,Branimir Hrgota,4-4-2◆,Bastian Dankert,Match Report,,Greuther Fürth
+9,2021-10-23,15:30,Bundesliga,Matchweek 9,Sat,Away,L,1,4,RB Leipzig,1.5,2.5,44.0,24758.0,Branimir Hrgota,4-2-3-1,Christian Dingert,Match Report,,Greuther Fürth
+10,2021-10-30,15:30,Bundesliga,Matchweek 10,Sat,Away,L,1,3,Freiburg,0.7,1.3,49.0,31500.0,Branimir Hrgota,4-3-3,Felix Brych,Match Report,,Greuther Fürth
+11,2021-11-07,19:30,Bundesliga,Matchweek 11,Sun,Home,L,1,2,Eint Frankfurt,2.8,1.5,54.0,10244.0,Branimir Hrgota,4-3-3,Daniel Siebert,Match Report,,Greuther Fürth
+12,2021-11-20,15:30,Bundesliga,Matchweek 12,Sat,Away,L,0,4,M'Gladbach,0.4,2.6,43.0,38621.0,Branimir Hrgota,4-2-3-1,Benjamin Brand,Match Report,,Greuther Fürth
+13,2021-11-27,15:30,Bundesliga,Matchweek 13,Sat,Home,L,3,6,Hoffenheim,1.4,3.0,49.0,3385.0,Branimir Hrgota,4-3-3,Bastian Dankert,Match Report,,Greuther Fürth
+14,2021-12-04,15:30,Bundesliga,Matchweek 14,Sat,Away,L,1,7,Leverkusen,0.4,2.8,40.0,10455.0,Branimir Hrgota,4-4-1-1,Tobias Reichel,Match Report,,Greuther Fürth
+15,2021-12-12,15:30,Bundesliga,Matchweek 15,Sun,Home,W,1,0,Union Berlin,0.7,1.2,38.0,,Branimir Hrgota,4-3-3,Sven Jablonski,Match Report,,Greuther Fürth
+16,2021-12-15,20:30,Bundesliga,Matchweek 16,Wed,Away,L,0,3,Dortmund,0.6,1.8,32.0,15000.0,Sascha Burchert,4-3-3,Daniel Schlager,Match Report,,Greuther Fürth
+17,2021-12-18,15:30,Bundesliga,Matchweek 17,Sat,Home,D,0,0,Augsburg,0.1,1.2,49.0,,Branimir Hrgota,4-4-2◆,Sascha Stegemann,Match Report,,Greuther Fürth
+18,2022-01-08,15:30,Bundesliga,Matchweek 18,Sat,Home,D,0,0,Stuttgart,0.8,1.4,39.0,,Branimir Hrgota,4-4-2◆,Felix Brych,Match Report,,Greuther Fürth
+19,2022-01-16,17:30,Bundesliga,Matchweek 19,Sun,Away,D,2,2,Arminia,0.4,0.8,55.0,750.0,Branimir Hrgota,4-4-2◆,Christian Dingert,Match Report,,Greuther Fürth
+20,2022-01-22,15:30,Bundesliga,Matchweek 20,Sat,Home,W,2,1,Mainz 05,1.1,2.0,43.0,,Branimir Hrgota,4-4-2◆,Robert Schröder,Match Report,,Greuther Fürth
+21,2022-02-06,17:30,Bundesliga,Matchweek 21,Sun,Away,L,1,4,Wolfsburg,1.1,2.0,44.0,500.0,Branimir Hrgota,4-3-3,Martin Petersen,Match Report,,Greuther Fürth
+22,2022-02-12,15:30,Bundesliga,Matchweek 22,Sat,Home,W,2,1,Hertha BSC,2.5,2.3,40.0,9000.0,Branimir Hrgota,4-4-2◆,Daniel Schlager,Match Report,,Greuther Fürth
+23,2022-02-20,15:30,Bundesliga,Matchweek 23,Sun,Away,L,1,4,Bayern Munich,0.9,2.7,23.0,25000.0,Branimir Hrgota,4-4-2◆,Robert Hartmann,Match Report,,Greuther Fürth
+24,2022-02-26,15:30,Bundesliga,Matchweek 24,Sat,Home,D,1,1,Köln,0.8,0.8,41.0,9200.0,Branimir Hrgota,4-4-2◆,Robert Schörgenhofer,Match Report,,Greuther Fürth
+25,2022-03-05,15:30,Bundesliga,Matchweek 25,Sat,Away,L,1,2,Bochum,0.8,1.3,55.0,19800.0,Branimir Hrgota,4-4-2◆,Daniel Schlager,Match Report,,Greuther Fürth
+26,2022-03-13,19:30,Bundesliga,Matchweek 26,Sun,Home,L,1,6,RB Leipzig,0.4,1.4,47.0,9418.0,Branimir Hrgota,4-4-2◆,Sven Jablonski,Match Report,,Greuther Fürth
+27,2022-03-19,15:30,Bundesliga,Matchweek 27,Sat,Home,D,0,0,Freiburg,0.7,0.8,39.0,9884.0,Branimir Hrgota,3-4-1-2,Tobias Reichel,Match Report,,Greuther Fürth
+28,2022-04-02,15:30,Bundesliga,Matchweek 28,Sat,Away,D,0,0,Eint Frankfurt,0.4,1.4,32.0,50500.0,Branimir Hrgota,3-4-1-2,Bastian Dankert,Match Report,,Greuther Fürth
+29,2022-04-09,15:30,Bundesliga,Matchweek 29,Sat,Home,L,0,2,M'Gladbach,0.6,2.8,50.0,13900.0,Branimir Hrgota,3-4-3,Tobias Stieler,Match Report,,Greuther Fürth
+30,2022-04-17,17:30,Bundesliga,Matchweek 30,Sun,Away,D,0,0,Hoffenheim,0.5,0.9,42.0,16110.0,Branimir Hrgota,3-5-2,Felix Zwayer,Match Report,,Greuther Fürth
+31,2022-04-23,15:30,Bundesliga,Matchweek 31,Sat,Home,L,1,4,Leverkusen,,,52.0,11579.0,Branimir Hrgota,3-4-1-2,Tobias Reichel,Match Report,,Greuther Fürth
+32,2022-04-29,20:30,Bundesliga,Matchweek 32,Fri,Away,,,,Union Berlin,,,,,,,,Head-to-Head,,Greuther Fürth
+33,2022-05-07,15:30,Bundesliga,Matchweek 33,Sat,Home,,,,Dortmund,,,,,,,,Head-to-Head,,Greuther Fürth
+34,2022-05-14,15:30,Bundesliga,Matchweek 34,Sat,Away,,,,Augsburg,,,,,,,,Head-to-Head,,Greuther Fürth
