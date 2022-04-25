@@ -7,9 +7,8 @@ import matplotlib.pyplot as plt
 from bs4 import BeautifulSoup
 import requests
 
-
 # avoid deprecated warnings
-warnings.filterwarnings("ignore", category=FutureWarning)
+warnings.filterwarnings("ignore") #, category=FutureWarning
 
 # scraps url and gets squad name, link to squad and squad logo. Returns dataframe with scraped data. URL = https://fbref.com/en/comps/Big5/Big-5-European-Leagues-Stats
 def scrap_urls():
@@ -88,10 +87,14 @@ def clean_data(data):
 
 
 def plot(data, league):
-    #data = only_league_filt[only_league_filt["Comp"] == league].reset_index().sort_values(by="Matchweek", ascending=True)
-    
+   
     # set style
-    plt.style.use('grayscale') # default
+    plt.style.use('default')
+
+    #Set color by xG dif and normalize by the max and min values.
+    colors = data['xG_dif'].values
+    normal = plt.Normalize(colors.min(), colors.max())
+    cmap='seismic_r'
 
     # open figure
     fig, axes = plt.subplots(nrows=4, ncols=5,sharex=True, sharey=True, figsize=(12,8))
@@ -104,7 +107,7 @@ def plot(data, league):
     plt.figtext(1.0,1.03,'By: Renzo Cammi (@cammi_renzo)',
                 ha='right',fontsize=10)
     plt.figtext(1.0,1.0090,'Data: StatsBomb via FBref',
-            ha='right', fontsize=10)
+                ha='right', fontsize=10)
 
     squadNames = sorted(list(data.squadName.unique()))
 
@@ -113,12 +116,12 @@ def plot(data, league):
 
         ax = axes_list.pop(0)
 
-        ax.set_title(squad, fontsize=14)
+        ax.set_title(squad, fontsize=12)
 
         x = data_squad.xG
         y = data_squad.xGA
 
-        ax.scatter(x, y, c=data_squad["xG_dif"], cmap='seismic_r') #, linewidth=5
+        im = ax.scatter(x, y, c=data_squad["xG_dif"], cmap=cmap, norm=normal)
 
         # get 3 outliers matches
         outliers_xG = data_squad.sort_values(by='xG', ascending=False).head(1)
@@ -126,43 +129,64 @@ def plot(data, league):
         outliers = outliers_xG.append(outliers_xGA)
 
         for row in outliers.iterrows():
-            texts = [ax.annotate(row[1]["Matchweek_rival"], (row[1].xG+0.01, row[1].xGA+0.01), fontsize=8, ha='left')]
-            #texts = [plt.figtext(row[1].xG, row[1].xGA, row[1]["Matchweek_rival"], ha='center', transform=ax.transData)]
-            #texts = [plt.text(row[1].xG, row[1].xGA, row[1]["Matchweek_rival"])]
-            #adjust_text(texts)
-        
+            ax.annotate(row[1]["Matchweek_rival"], (row[1].xG+0.1, row[1].xGA+0.1), fontsize=8, ha='left')
 
         ax.plot([0, 1], [0, 1], color='black', ls='--', alpha=0.30, transform=ax.transAxes)
 
     for ax in axes_list:
         ax.remove()
 
+    # show color bar
+    cax = fig.add_axes([0.40, -0.05, 0.25, 0.02])
+    cax.set_title('xG-xGA', loc='right', fontsize=10)
+    fig.colorbar(im, cax=cax, cmap=cmap, orientation='horizontal') 
+    
     # set labels
-    plt.figtext(0,0.5,'xGA', rotation=90, fontsize=12, ha='center', color='black')
-    plt.figtext(0.5,0,'xG', fontsize=12, ha='center', color='black')
+    plt.figtext(0,0.5,'xGA', rotation=90, fontsize=10, ha='center', color='black')
+    plt.figtext(0.5,0,'xG', fontsize=10, ha='center', color='black')
 
+    # set labels
+    plt.figtext(0,0.5,'xGA', rotation=90, fontsize=10, ha='center', color='black')
+    plt.figtext(0.5,0,'xG', fontsize=12, ha='center', color='black')
 
     #adjust subplots in the figure 
     plt.tight_layout()
 
     #save figure
-    plt.savefig('xG_by_Game_{league}.png'.format(league=league), bbox_inches="tight", dpi=300)
+    return(plt.savefig('fig/xG_by_Game_{league}.png'.format(league=league), bbox_inches="tight", dpi=300))
 
     #Display figure
-    return(plt.show())
+    #return(plt.show())
 
 def main():
+    print("")
+    print("###PLOT xG PER GAME###")
+    print("") 
+    print("DATA FROM: fbref.com | AUTHOR: Renzo Cammi (@cammi_renzo) ###")
+    print("")
     url_data = scrap_urls()
-    leagues = list(url_data.country.unique())
+    leagues = {'Bundesliga':'de GER', 'Premier League':'eng ENG', 'La Liga':'es ESP', 'Ligue 1':'fr FRA', 'Serie A':'it ITA'} 
     # Ask user to pick league
-    print("Choose league" + str(leagues))
-    answer = input()
-    # big_frame = pd.DataFrame() # build big dataframe with top 5 leagues
-    #return(print(scrap_data(url_data, leagues[1])))
-    league_df = scrap_data(url_data, answer)
-    data = clean_data(league_df)
-    print(data)
-    plot(data, answer)
+    print("##Choose between top 5 leagues of europe##")
+    print("")
+    for league in leagues.keys():
+        print('##'+league)
+    print("")
+    answer = input("Write your answer: ")
+    print("")
+    while answer not in list(leagues.keys()):
+        print("Try again. Type league name correctly.")
+        answer = input("Write your answer: ")
+    else:
+        # big_frame = pd.DataFrame() # build big dataframe with top 5 leagues
+        #return(print(scrap_data(url_data, leagues[1])))
+        country = leagues[answer]
+        league_df = scrap_data(url_data, country)
+        data = clean_data(league_df)
+        #print(data)
+        plot(data, answer)
+
+    quit()
 
     #return(data.to_csv("{league}.csv".format(league=answer)))
     
@@ -174,45 +198,4 @@ def main():
     
     #return(big_frame.to_csv("big_frame.csv"))
 
-main()    
-
-# set colors by result of match
-# big_frame.loc[big_frame["Result"] == 'W', 'color'] = 'g'
-# big_frame.loc[big_frame["Result"] == 'D', 'color'] = 'b'
-# big_frame.loc[big_frame["Result"] == 'L', 'color'] = 'r'
-# big_frame.loc[big_frame["Notes"] == 'Match Postponed', ['Poss','Result','color']] = [0,'Match Postponed','y']
-
-# crear big frame
-# analizar big frame (valores nulos, incoherencias, cosas por corregir)
-# plotear grafico con distintas variables y posibilidad de elegir liga
-
-# get league squad
-# squad_df = pd.read_html("https://fbref.com/en/comps/9/Premier-League-Stats#results111601_overall")[0]
-# squad_df["Squad_dash"] = squad_df["Squad"].apply(lambda x: x.replace(" ","-"))
-# squads = squad_df.Squad_dash.unique()
-
-# print(squads)
-
-# print (big_frame.tail())
-# print (big_frame.shape)
-
-# drop NA rows
-# data = data.iloc[:29,:]
-
-# print(data[["Round","Poss","Result","color"]])
-
-# # plot scatter
-
-# #set plot style
-# plt.style.use('classic')
-
-# plt.title("Aca va el titulo")
-
-# ax = plt.scatter(x=data.Round, y=data.Poss, color=data.color)
-
-# plt.xticks(rotation = 90)
-# plt.grid(alpha=0.2)
-
-# handles, labels = ax.get_legend_handles_labels()
-# ax.legend(handles, labels)
-# plt.show()
+main()
