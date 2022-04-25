@@ -153,16 +153,28 @@ def plot(data, league):
 
 def main():
     url_data = scrap_urls()
-    leagues = list(url_data.country.unique())
+    leagues = {'Bundesliga':'de GER', 'Premier League':'eng ENG', 'La Liga':'es ESP', 'Ligue 1':'fr FRA', 'Serie A':'it ITA'} 
     # Ask user to pick league
-    print("Choose league" + str(leagues))
-    answer = input()
-    # big_frame = pd.DataFrame() # build big dataframe with top 5 leagues
-    #return(print(scrap_data(url_data, leagues[1])))
-    league_df = scrap_data(url_data, answer)
-    data = clean_data(league_df)
-    print(data)
-    plot(data, answer)
+    print("##Choose between top 5 leagues of europe##")
+    print("")
+    for league in leagues.keys():
+        print('##'+league)
+    print("")
+    answer = input("Write your answer: ")
+    print("")
+    while answer not in list(leagues.keys()):
+        print("Try again. Type league name correctly.")
+        answer = input("Write your answer: ")
+    else:
+        # big_frame = pd.DataFrame() # build big dataframe with top 5 leagues
+        #return(print(scrap_data(url_data, leagues[1])))
+        country = leagues[answer]
+        league_df = scrap_data(url_data, country)
+        data = clean_data(league_df)
+        print(data)
+        plot(data, answer)
+
+    quit()
 
     #return(data.to_csv("{league}.csv".format(league=answer)))
     
