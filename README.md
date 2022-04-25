@@ -1,6 +1,6 @@
 # xG_by_game
 
-Print your own xG by game viz. Data is scraped from fbref.com
+Print your own xG by game viz. Data is scraped from fbref.com.
 
 ## Installation
 
@@ -25,3 +25,5 @@ cd into the project folder and run plot.py in command prompt (windows)
 ```bash
 python plot.py
 ```
+
+once running follow instructions!
