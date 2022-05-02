@@ -82,6 +82,10 @@ def clean_data(data):
     only_league_filt["Matchweek"] = only_league_filt["Round"].apply(lambda x: int(x.split(" ")[1]))
     # set col of matchweek + opponent
     only_league_filt["Matchweek_rival"] = only_league_filt["Matchweek"].apply(lambda x: str(x)) + "_" + only_league_filt["Opponent"].apply(lambda x: x[:3].upper())
+    # points by match
+    only_league_filt.loc[only_league_filt["Result"] == "W", "Pts"] = 3
+    only_league_filt.loc[only_league_filt["Result"] == "D", "Pts"] = 1
+    only_league_filt.loc[only_league_filt["Result"] == "L", "Pts"] = 0
 
     return(only_league_filt)
 
@@ -101,35 +105,40 @@ def plot(data, league):
     axes_list = [item for sublist in axes for item in sublist]
 
     #plot main titles
-    plt.figtext(0,1.02,'xG by Game, {league} 2021-22'.format(league=league), fontsize=18, ha='left', weight='bold', color='black') # 1.01
+    plt.figtext(0,1.04,'xG by Game, {league} 2021-22'.format(league=league), fontsize=18, ha='left', weight='bold', color='black') # 1.01
+    plt.figtext(0,1.015, 'Sorted by league position. Outliers identified by matchweek and rival', fontsize=10, fontstyle='italic', ha='left', color='black')
 
     # plot credits
-    plt.figtext(1.0,1.03,'By: Renzo Cammi (@cammi_renzo)',
+    plt.figtext(1.0,1.04,'By: Renzo Cammi (@cammi_renzo)',
                 ha='right',fontsize=10)
-    plt.figtext(1.0,1.0090,'Data: StatsBomb via FBref',
-                ha='right', fontsize=10)
+    plt.figtext(1.0,1.015,'Data: StatsBomb via FBref',
+            ha='right', fontsize=10)
 
-    squadNames = sorted(list(data.squadName.unique()))
+
+    # sort by pos in table
+    table_pos = data.groupby("squadName").sum()["Pts"].sort_values(ascending=False).reset_index()
+    squadNames = list(table_pos.squadName.unique())
 
     for squad in squadNames:
         data_squad = data[data["squadName"] == squad]
 
         ax = axes_list.pop(0)
 
-        ax.set_title(squad, fontsize=12)
+        ax.set_title(squad + "\nPts " + str(data_squad.Pts.sum()), fontsize=12)
 
-        x = data_squad.xG
-        y = data_squad.xGA
+        x = data_squad.xGA
+        y = data_squad.xG
 
+        # plot data
         im = ax.scatter(x, y, c=data_squad["xG_dif"], cmap=cmap, norm=normal)
 
         # get 3 outliers matches
-        outliers_xG = data_squad.sort_values(by='xG', ascending=False).head(1)
-        outliers_xGA = data_squad.sort_values(by='xGA', ascending=False).head(1)
+        outliers_xG = data_squad.sort_values(by='xGA', ascending=False).head(1)
+        outliers_xGA = data_squad.sort_values(by='xG', ascending=False).head(1)
         outliers = outliers_xG.append(outliers_xGA)
 
         for row in outliers.iterrows():
-            ax.annotate(row[1]["Matchweek_rival"], (row[1].xG+0.1, row[1].xGA+0.1), fontsize=8, ha='left')
+            ax.annotate(row[1]["Matchweek_rival"], (row[1].xGA+0.1, row[1].xG+0.1), fontsize=8, ha='left')
 
         ax.plot([0, 1], [0, 1], color='black', ls='--', alpha=0.30, transform=ax.transAxes)
 
@@ -142,12 +151,8 @@ def plot(data, league):
     fig.colorbar(im, cax=cax, cmap=cmap, orientation='horizontal') 
     
     # set labels
-    plt.figtext(0,0.5,'xGA', rotation=90, fontsize=10, ha='center', color='black')
-    plt.figtext(0.5,0,'xG', fontsize=10, ha='center', color='black')
-
-    # set labels
-    plt.figtext(0,0.5,'xGA', rotation=90, fontsize=10, ha='center', color='black')
-    plt.figtext(0.5,0,'xG', fontsize=12, ha='center', color='black')
+    plt.figtext(0,0.5,'xG',fontsize=10, rotation=90,  ha='center', color='black')
+    plt.figtext(0.5,0,'xGA', fontsize=10, ha='center', color='black')
 
     #adjust subplots in the figure 
     plt.tight_layout()
@@ -186,8 +191,6 @@ def main():
         #print(data)
         plot(data, answer)
 
-    quit()
-
     #return(data.to_csv("{league}.csv".format(league=answer)))
     
     # for league in leagues:
@@ -197,5 +200,8 @@ def main():
 
     
     #return(big_frame.to_csv("big_frame.csv"))
+
+    quit()
+
 
 main()
