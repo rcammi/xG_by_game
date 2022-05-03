@@ -3,6 +3,7 @@ import warnings
 from datetime import datetime
 import pandas as pd
 import matplotlib.pyplot as plt
+import matplotlib.patches as mpatches
 
 from bs4 import BeautifulSoup
 import requests
@@ -90,15 +91,18 @@ def clean_data(data):
     return(only_league_filt)
 
 
-def plot(data, league):
+def plot(data, league, type):
    
     # set style
     plt.style.use('default')
 
-    #Set color by xG dif and normalize by the max and min values.
-    colors = data['xG_dif'].values
-    normal = plt.Normalize(colors.min(), colors.max())
-    cmap='seismic_r'
+    if type == 'Venue':
+        color_dict = {'Home':'blue', 'Away':'red'} 
+    else:
+        #Set color by xG dif and normalize by the max and min values.
+        colors = data['xG_dif'].values
+        normal = plt.Normalize(colors.min(), colors.max())
+        cmap='seismic_r'
 
     # open figure
     fig, axes = plt.subplots(nrows=4, ncols=5,sharex=True, sharey=True, figsize=(12,8))
@@ -130,7 +134,10 @@ def plot(data, league):
         y = data_squad.xG
 
         # plot data
-        im = ax.scatter(x, y, c=data_squad["xG_dif"], cmap=cmap, norm=normal)
+        if type == 'Venue':
+            im = ax.scatter(x, y, c=data_squad["Venue"].map(color_dict))
+        else:
+            im = ax.scatter(x, y, c=data_squad["xG_dif"], cmap=cmap, norm=normal)
 
         # get 3 outliers matches
         outliers_xG = data_squad.sort_values(by='xGA', ascending=False).head(1)
@@ -146,9 +153,15 @@ def plot(data, league):
         ax.remove()
 
     # show color bar
-    cax = fig.add_axes([0.40, -0.05, 0.25, 0.02])
-    cax.set_title('xG-xGA', loc='right', fontsize=10)
-    fig.colorbar(im, cax=cax, cmap=cmap, orientation='horizontal') 
+    if type == 'Venue':
+    #plot the legend
+        red_patch = mpatches.Patch(color='red', label='Away')
+        blue_patch = mpatches.Patch(color='blue', label='Home')
+        fig.legend(bbox_to_anchor=(0.5,-0.05), handles=[red_patch, blue_patch], loc='lower center', ncol=2)
+    else:
+        cax = fig.add_axes([0.40, -0.05, 0.25, 0.02])
+        cax.set_title('xG-xGA', loc='right', fontsize=10)
+        fig.colorbar(im, cax=cax, cmap=cmap, orientation='horizontal') 
     
     # set labels
     plt.figtext(0,0.5,'xG',fontsize=10, rotation=90,  ha='center', color='black')
@@ -164,42 +177,54 @@ def plot(data, league):
     #return(plt.show())
 
 def main():
+
     print("")
     print("###PLOT xG PER GAME###")
     print("") 
     print("DATA FROM: fbref.com | AUTHOR: Renzo Cammi (@cammi_renzo) ###")
     print("")
+
     url_data = scrap_urls()
     leagues = {'Bundesliga':'de GER', 'Premier League':'eng ENG', 'La Liga':'es ESP', 'Ligue 1':'fr FRA', 'Serie A':'it ITA'} 
+    
     # Ask user to pick league
     print("##Choose between top 5 leagues of europe##")
     print("")
     for league in leagues.keys():
-        print('##'+league)
+        print('##' + league)
+   
     print("")
-    answer = input("Write your answer: ")
+    answer1 = input("Write your answer: ")
     print("")
-    while answer not in list(leagues.keys()):
+    
+    while answer1 not in list(leagues.keys()):
         print("Try again. Type league name correctly.")
-        answer = input("Write your answer: ")
-    else:
-        # big_frame = pd.DataFrame() # build big dataframe with top 5 leagues
-        #return(print(scrap_data(url_data, leagues[1])))
-        country = leagues[answer]
-        league_df = scrap_data(url_data, country)
-        data = clean_data(league_df)
-        #print(data)
-        plot(data, answer)
+        answer1 = input("Write your answer: ")
+    
+    # Ask user to pick type of plot
+    print("")
+    print("##Choose between venue plot (home and away) or xG difference plot##")
+    print("")
+
+    types = ["xG difference", "Venue"]
+    for type in types:
+        print('##' + type)
+
+    print("")
+    answer2 = input("Write your answer: ")
+    print("")
+
+    while answer2 not in types:
+        print("Try again. Type type name correctly. Same as above")
+        answer2 = input("Write your answer: ")
+    
+    country = leagues[answer1]
+    league_df = scrap_data(url_data, country)
+    data = clean_data(league_df)
+    #print(data)
+    plot(data, answer1, answer2)
 
     #return(data.to_csv("{league}.csv".format(league=answer)))
-    
-    # for league in leagues:
-    #     league_df = scrap_data(url_data, league)
-    #     print(league_df)
-    #     big_frame = big_frame.append(league_df)
-
-    
-    #return(big_frame.to_csv("big_frame.csv"))
 
     quit()
 
